@@ -1,0 +1,211 @@
+{
+  "Background": {
+    "BackgroundColor": "0x00FF00"
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 0,
+        "Y": 0,
+        "ImageIndex": 0,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 35,
+        "Y": 28,
+        "ImageIndex": 3,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 66,
+        "Y": 28,
+        "ImageIndex": 3,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 96,
+        "Y": 29,
+        "ImageIndex": 3,
+        "ImagesCount": 10
+      }
+    },
+    "UnknownV11": 0
+  },
+  "Activity": {
+    "Steps": {
+      "Number": {
+        "TopLeftX": 13,
+        "TopLeftY": 73,
+        "BottomRightX": 14,
+        "BottomRightY": 74,
+        "Alignment": "TopLeft",
+        "SpacingX": -5,
+        "SpacingY": 0,
+        "ImageIndex": 23,
+        "ImagesCount": 10
+      }
+    },
+    "Pulse": {
+      "Number": {
+        "TopLeftX": 18,
+        "TopLeftY": 93,
+        "BottomRightX": 19,
+        "BottomRightY": 94,
+        "Alignment": "TopLeft",
+        "SpacingX": -5,
+        "SpacingY": 0,
+        "ImageIndex": 23,
+        "ImagesCount": 10
+      }
+    },
+    "PAI": {
+      "Number": {
+        "TopLeftX": 79,
+        "TopLeftY": 92,
+        "BottomRightX": 80,
+        "BottomRightY": 93,
+        "Alignment": "TopLeft",
+        "SpacingX": -5,
+        "SpacingY": 0,
+        "ImageIndex": 23,
+        "ImagesCount": 10
+      }
+    },
+    "UnknownV7": 0
+  },
+  "Date": {
+    "MonthAndDayAndYear": {
+      "Separate": {
+        "Month": {
+          "TopLeftX": 104,
+          "TopLeftY": 74,
+          "BottomRightX": 105,
+          "BottomRightY": 75,
+          "Alignment": "TopLeft",
+          "SpacingX": -4,
+          "SpacingY": 0,
+          "ImageIndex": 23,
+          "ImagesCount": 10
+        },
+        "Day": {
+          "TopLeftX": 78,
+          "TopLeftY": 74,
+          "BottomRightX": 79,
+          "BottomRightY": 75,
+          "Alignment": "TopLeft",
+          "SpacingX": -4,
+          "SpacingY": 0,
+          "ImageIndex": 23,
+          "ImagesCount": 10
+        }
+      },
+      "TwoDigitsMonth": true,
+      "TwoDigitsDay": true
+    }
+  },
+  "Weather": {
+    "Icon": {
+      "CustomIcon": {
+        "X": -1,
+        "Y": 109,
+        "ImageIndex": 41,
+        "ImagesCount": 26
+      },
+      "Unknown3": {
+        "X": -1,
+        "Y": 109
+      },
+      "Unknown4": {
+        "X": -1,
+        "Y": 109
+      }
+    }
+  },
+  "Battery": {
+    "BatteryText": {
+      "Coordinates": {
+        "TopLeftX": 54,
+        "TopLeftY": 1,
+        "BottomRightX": 55,
+        "BottomRightY": 2,
+        "Alignment": "TopLeft",
+        "SpacingX": -3,
+        "SpacingY": 0,
+        "ImageIndex": 23,
+        "ImagesCount": 10
+      },
+      "SuffixImageIndex": 40
+    },
+    "BatteryIcon": {
+      "X": 94,
+      "Y": 1,
+      "ImageIndex": 13,
+      "ImagesCount": 10
+    }
+  },
+  "Other": {
+    "Animation": [
+      {
+        "AnimationImages": {
+          "X": 0,
+          "Y": 0,
+          "ImageIndex": 67,
+          "ImagesCount": 1
+        },
+        "Speed": 0,
+        "RepeatCount": 0,
+        "UnknownTF4": 1
+      },
+      {
+        "AnimationImages": {
+          "X": 28,
+          "Y": 214,
+          "ImageIndex": 68,
+          "ImagesCount": 8
+        },
+        "Speed": 100,
+        "RepeatCount": 255,
+        "UnknownTF4": 1
+      }
+    ]
+  },
+  "WeekDaysIcons": {
+    "Monday": {
+      "X": 0,
+      "Y": 260,
+      "ImageIndex": 33
+    },
+    "Tuesday": {
+      "X": 0,
+      "Y": 260,
+      "ImageIndex": 34
+    },
+    "Wednesday": {
+      "X": 0,
+      "Y": 260,
+      "ImageIndex": 35
+    },
+    "Thursday": {
+      "X": 0,
+      "Y": 260,
+      "ImageIndex": 36
+    },
+    "Friday": {
+      "X": 0,
+      "Y": 260,
+      "ImageIndex": 37
+    },
+    "Saturday": {
+      "X": 0,
+      "Y": 260,
+      "ImageIndex": 38
+    },
+    "Sunday": {
+      "X": 0,
+      "Y": 260,
+      "ImageIndex": 39
+    }
+  }
+}

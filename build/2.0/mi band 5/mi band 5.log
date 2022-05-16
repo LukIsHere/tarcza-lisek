@@ -1,0 +1,2880 @@
+Debug|Opening watch face 'C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed.bin'
+Debug|Reading parameters...
+Trace|Reading header...
+Trace|Header was read:
+Trace|Signature: UIHH, Unknown: 16777215, ParametersSize: 60, IsValid: True
+Trace|Reading parameter offsets...
+Trace|Parameter offsets were read from file
+Trace|Reading parameters descriptor...
+Trace|1 (0A): 5 bytes
+Trace|    1 (08): 406 (196)
+Trace|    2 (10): 76 (4C)
+Trace|Parameters descriptor was read:
+Trace|ParametrsTableLength: 406, ImagesCount: 76
+Trace|Reading parameters locations...
+Trace|2 (12): 4 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 4 (04)
+Trace|3 (1A): 4 bytes
+Trace|    1 (08): 4 (04)
+Trace|    2 (10): 46 (2E)
+Trace|4 (22): 4 bytes
+Trace|    1 (08): 50 (32)
+Trace|    2 (10): 95 (5F)
+Trace|5 (2A): 5 bytes
+Trace|    1 (08): 145 (91)
+Trace|    2 (10): 66 (42)
+Trace|6 (32): 5 bytes
+Trace|    1 (08): 211 (D3)
+Trace|    2 (10): 51 (33)
+Trace|9 (4A): 5 bytes
+Trace|    1 (08): 262 (106)
+Trace|    2 (10): 43 (2B)
+Trace|11 (5A): 5 bytes
+Trace|    1 (08): 305 (131)
+Trace|    2 (10): 38 (26)
+Trace|14 (72): 5 bytes
+Trace|    1 (08): 343 (157)
+Trace|    2 (10): 63 (3F)
+Trace|Watch face parameters locations were read:
+Trace|Reading descriptor for parameter 2
+Trace|Descriptor offset: 0, Descriptor length: 4
+Trace|Parsing descriptor for parameter 2...
+Trace|2 (10): 65280 (FF00)
+Trace|Reading descriptor for parameter 3
+Trace|Descriptor offset: 4, Descriptor length: 46
+Trace|Parsing descriptor for parameter 3...
+Trace|1 (0A): 20 bytes
+Trace|    1 (0A): 8 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 0 (00)
+Trace|        3 (18): 0 (00)
+Trace|        4 (20): 10 (0A)
+Trace|    2 (12): 8 bytes
+Trace|        1 (08): 35 (23)
+Trace|        2 (10): 28 (1C)
+Trace|        3 (18): 3 (03)
+Trace|        4 (20): 10 (0A)
+Trace|2 (12): 20 bytes
+Trace|    1 (0A): 8 bytes
+Trace|        1 (08): 66 (42)
+Trace|        2 (10): 28 (1C)
+Trace|        3 (18): 3 (03)
+Trace|        4 (20): 10 (0A)
+Trace|    2 (12): 8 bytes
+Trace|        1 (08): 96 (60)
+Trace|        2 (10): 29 (1D)
+Trace|        3 (18): 3 (03)
+Trace|        4 (20): 10 (0A)
+Trace|11 (58): 0 (00)
+Trace|Reading descriptor for parameter 4
+Trace|Descriptor offset: 50, Descriptor length: 95
+Trace|Parsing descriptor for parameter 4...
+Trace|1 (0A): 29 bytes
+Trace|    1 (0A): 27 bytes
+Trace|        1 (08): 13 (0D)
+Trace|        2 (10): 73 (49)
+Trace|        3 (18): 14 (0E)
+Trace|        4 (20): 74 (4A)
+Trace|        5 (28): 18 (12)
+Trace|        6 (30): -5 (FFFFFFFFFFFFFFFB)
+Trace|        7 (38): 0 (00)
+Trace|        8 (40): 23 (17)
+Trace|        9 (48): 10 (0A)
+Trace|4 (22): 29 bytes
+Trace|    1 (0A): 27 bytes
+Trace|        1 (08): 18 (12)
+Trace|        2 (10): 93 (5D)
+Trace|        3 (18): 19 (13)
+Trace|        4 (20): 94 (5E)
+Trace|        5 (28): 18 (12)
+Trace|        6 (30): -5 (FFFFFFFFFFFFFFFB)
+Trace|        7 (38): 0 (00)
+Trace|        8 (40): 23 (17)
+Trace|        9 (48): 10 (0A)
+Trace|6 (32): 29 bytes
+Trace|    1 (0A): 27 bytes
+Trace|        1 (08): 79 (4F)
+Trace|        2 (10): 92 (5C)
+Trace|        3 (18): 80 (50)
+Trace|        4 (20): 93 (5D)
+Trace|        5 (28): 18 (12)
+Trace|        6 (30): -5 (FFFFFFFFFFFFFFFB)
+Trace|        7 (38): 0 (00)
+Trace|        8 (40): 23 (17)
+Trace|        9 (48): 10 (0A)
+Trace|7 (38): 0 (00)
+Trace|Reading descriptor for parameter 5
+Trace|Descriptor offset: 145, Descriptor length: 66
+Trace|Parsing descriptor for parameter 5...
+Trace|1 (0A): 64 bytes
+Trace|    1 (0A): 58 bytes
+Trace|        1 (0A): 27 bytes
+Trace|            1 (08): 104 (68)
+Trace|            2 (10): 74 (4A)
+Trace|            3 (18): 105 (69)
+Trace|            4 (20): 75 (4B)
+Trace|            5 (28): 18 (12)
+Trace|            6 (30): -4 (FFFFFFFFFFFFFFFC)
+Trace|            7 (38): 0 (00)
+Trace|            8 (40): 23 (17)
+Trace|            9 (48): 10 (0A)
+Trace|        4 (22): 27 bytes
+Trace|            1 (08): 78 (4E)
+Trace|            2 (10): 74 (4A)
+Trace|            3 (18): 79 (4F)
+Trace|            4 (20): 75 (4B)
+Trace|            5 (28): 18 (12)
+Trace|            6 (30): -4 (FFFFFFFFFFFFFFFC)
+Trace|            7 (38): 0 (00)
+Trace|            8 (40): 23 (17)
+Trace|            9 (48): 10 (0A)
+Trace|    4 (20): 1 (01)
+Trace|    5 (28): 1 (01)
+Trace|Reading descriptor for parameter 6
+Trace|Descriptor offset: 211, Descriptor length: 51
+Trace|Parsing descriptor for parameter 6...
+Trace|1 (0A): 49 bytes
+Trace|    2 (12): 17 bytes
+Trace|        1 (08): -1 (FFFFFFFFFFFFFFFF)
+Trace|        2 (10): 109 (6D)
+Trace|        3 (18): 41 (29)
+Trace|        4 (20): 26 (1A)
+Trace|    3 (1A): 13 bytes
+Trace|        1 (08): -1 (FFFFFFFFFFFFFFFF)
+Trace|        2 (10): 109 (6D)
+Trace|    4 (22): 13 bytes
+Trace|        1 (08): -1 (FFFFFFFFFFFFFFFF)
+Trace|        2 (10): 109 (6D)
+Trace|Reading descriptor for parameter 9
+Trace|Descriptor offset: 262, Descriptor length: 43
+Trace|Parsing descriptor for parameter 9...
+Trace|1 (0A): 31 bytes
+Trace|    1 (0A): 27 bytes
+Trace|        1 (08): 54 (36)
+Trace|        2 (10): 1 (01)
+Trace|        3 (18): 55 (37)
+Trace|        4 (20): 2 (02)
+Trace|        5 (28): 18 (12)
+Trace|        6 (30): -3 (FFFFFFFFFFFFFFFD)
+Trace|        7 (38): 0 (00)
+Trace|        8 (40): 23 (17)
+Trace|        9 (48): 10 (0A)
+Trace|    4 (20): 40 (28)
+Trace|2 (12): 8 bytes
+Trace|    1 (08): 94 (5E)
+Trace|    2 (10): 1 (01)
+Trace|    3 (18): 13 (0D)
+Trace|    4 (20): 10 (0A)
+Trace|Reading descriptor for parameter 11
+Trace|Descriptor offset: 305, Descriptor length: 38
+Trace|Parsing descriptor for parameter 11...
+Trace|1 (0A): 16 bytes
+Trace|    1 (0A): 8 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 0 (00)
+Trace|        3 (18): 67 (43)
+Trace|        4 (20): 1 (01)
+Trace|    2 (10): 0 (00)
+Trace|    3 (18): 0 (00)
+Trace|    4 (20): 1 (01)
+Trace|1 (0A): 18 bytes
+Trace|    1 (0A): 9 bytes
+Trace|        1 (08): 28 (1C)
+Trace|        2 (10): 214 (D6)
+Trace|        3 (18): 68 (44)
+Trace|        4 (20): 8 (08)
+Trace|    2 (10): 100 (64)
+Trace|    3 (18): 255 (FF)
+Trace|    4 (20): 1 (01)
+Trace|Reading descriptor for parameter 14
+Trace|Descriptor offset: 343, Descriptor length: 63
+Trace|Parsing descriptor for parameter 14...
+Trace|1 (0A): 7 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 260 (104)
+Trace|    3 (18): 33 (21)
+Trace|2 (12): 7 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 260 (104)
+Trace|    3 (18): 34 (22)
+Trace|3 (1A): 7 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 260 (104)
+Trace|    3 (18): 35 (23)
+Trace|4 (22): 7 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 260 (104)
+Trace|    3 (18): 36 (24)
+Trace|5 (2A): 7 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 260 (104)
+Trace|    3 (18): 37 (25)
+Trace|6 (32): 7 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 260 (104)
+Trace|    3 (18): 38 (26)
+Trace|7 (3A): 7 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 260 (104)
+Trace|    3 (18): 39 (27)
+Trace|Reading resources offsets table with 76 elements (304 bytes)
+Debug|Reading 76 resources...
+Trace|Resource 0 offset: 857, length: 37980...
+Debug|Reading resource 0...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 294, RowLength: 126
+Trace|BPP: 8, PaletteColors: 230, Transaparency: False
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 11, G 1C, B 11
+Trace|Palette item 2: R 1C, G 2E, B 1C
+Trace|Palette item 3: R 1D, G 38, B 22
+Trace|Palette item 4: R 1F, G 31, B 1F
+Trace|Palette item 5: R 28, G 62, B 40
+Trace|Palette item 6: R 29, G 28, B 20
+Trace|Palette item 7: R 29, G 4B, B 38
+Trace|Palette item 8: R 29, G 52, B 30
+Trace|Palette item 9: R 2E, G 16, B 08
+Trace|Palette item 10: R 2E, G 1C, B 0A
+Trace|Palette item 11: R 31, G 1E, B 0B
+Trace|Palette item 12: R 32, G 53, B 32
+Trace|Palette item 13: R 39, G 5B, B 39
+Trace|Palette item 14: R 3A, G 2F, B 1E
+Trace|Palette item 15: R 3A, G 5C, B 3A
+Trace|Palette item 16: R 3B, G 27, B 13
+Trace|Palette item 17: R 3C, G 6E, B 42
+Trace|Palette item 18: R 41, G 28, B 18
+Trace|Palette item 19: R 44, G 33, B 21
+Trace|Palette item 20: R 45, G 14, B 15
+Trace|Palette item 21: R 48, G 7F, B 4F
+Trace|Palette item 22: R 4D, G 33, B 17
+Trace|Palette item 23: R 50, G 90, B 26
+Trace|Palette item 24: R 51, G 3D, B 24
+Trace|Palette item 25: R 55, G 3A, B 1F
+Trace|Palette item 26: R 57, G 97, B 2D
+Trace|Palette item 27: R 59, G 3D, B 29
+Trace|Palette item 28: R 5A, G 34, B 20
+Trace|Palette item 29: R 5A, G 3C, B 29
+Trace|Palette item 30: R 5A, G 44, B 24
+Trace|Palette item 31: R 5F, G 9F, B 35
+Trace|Palette item 32: R 60, G A0, B 36
+Trace|Palette item 33: R 61, G 4B, B 2E
+Trace|Palette item 34: R 61, G A1, B 37
+Trace|Palette item 35: R 62, G A2, B 38
+Trace|Palette item 36: R 64, G A4, B 3A
+Trace|Palette item 37: R 66, G A6, B 3C
+Trace|Palette item 38: R 67, G 50, B 2C
+Trace|Palette item 39: R 67, G A7, B 3D
+Trace|Palette item 40: R 68, G A8, B 3E
+Trace|Palette item 41: R 69, G 1F, B 21
+Trace|Palette item 42: R 69, G A9, B 3F
+Trace|Palette item 43: R 6A, G AA, B 40
+Trace|Palette item 44: R 6B, G AB, B 41
+Trace|Palette item 45: R 6C, G 6C, B 6C
+Trace|Palette item 46: R 6C, G AC, B 42
+Trace|Palette item 47: R 6D, G AD, B 43
+Trace|Palette item 48: R 6F, G AF, B 45
+Trace|Palette item 49: R 70, G 52, B 2E
+Trace|Palette item 50: R 70, G B0, B 46
+Trace|Palette item 51: R 71, G B1, B 47
+Trace|Palette item 52: R 73, G B3, B 49
+Trace|Palette item 53: R 74, G 58, B 44
+Trace|Palette item 54: R 74, G B4, B 4A
+Trace|Palette item 55: R 75, G B5, B 4B
+Trace|Palette item 56: R 76, G B6, B 4C
+Trace|Palette item 57: R 79, G 55, B 3A
+Trace|Palette item 58: R 7A, G 5A, B 34
+Trace|Palette item 59: R 7B, G 50, B 39
+Trace|Palette item 60: R 7E, G 62, B 37
+Trace|Palette item 61: R 7E, G BE, B 54
+Trace|Palette item 62: R 7F, G BF, B 55
+Trace|Palette item 63: R 81, G B0, B 51
+Trace|Palette item 64: R 82, G 61, B 3A
+Trace|Palette item 65: R 83, G B2, B 53
+Trace|Palette item 66: R 87, G 87, B 87
+Trace|Palette item 67: R 88, G 65, B 39
+Trace|Palette item 68: R 8A, G B9, B 5A
+Trace|Palette item 69: R 8D, G BC, B 5D
+Trace|Palette item 70: R 90, G BF, B 60
+Trace|Palette item 71: R 92, G C1, B 62
+Trace|Palette item 72: R 93, G C2, B 63
+Trace|Palette item 73: R 94, G 5D, B 41
+Trace|Palette item 74: R 96, G 2D, B 0C
+Trace|Palette item 75: R 96, G 6C, B 4A
+Trace|Palette item 76: R 96, G 74, B 41
+Trace|Palette item 77: R 97, G C6, B 67
+Trace|Palette item 78: R 9A, G 2C, B 07
+Trace|Palette item 79: R 9B, G 2C, B 05
+Trace|Palette item 80: R 9C, G 2D, B 03
+Trace|Palette item 81: R 9C, G CB, B 6C
+Trace|Palette item 82: R 9E, G 2E, B 08
+Trace|Palette item 83: R 9F, G 2E, B 06
+Trace|Palette item 84: R A0, G 2D, B 04
+Trace|Palette item 85: R A1, G 2D, B 04
+Trace|Palette item 86: R A2, G 2D, B 02
+Trace|Palette item 87: R A2, G 2E, B 04
+Trace|Palette item 88: R A3, G 00, B DA
+Trace|Palette item 89: R A3, G 2C, B 00
+Trace|Palette item 90: R A3, G 2C, B 01
+Trace|Palette item 91: R A3, G 2E, B 03
+Trace|Palette item 92: R A3, G 2E, B 04
+Trace|Palette item 93: R A3, G 2F, B 05
+Trace|Palette item 94: R A4, G 2D, B 02
+Trace|Palette item 95: R A4, G 2E, B 02
+Trace|Palette item 96: R A4, G 2E, B 03
+Trace|Palette item 97: R A4, G 2F, B 04
+Trace|Palette item 98: R A5, G 07, B 00
+Trace|Palette item 99: R A5, G 2D, B 0D
+Trace|Palette item 100: R A5, G 2E, B 02
+Trace|Palette item 101: R A5, G 2E, B 03
+Trace|Palette item 102: R A5, G 2E, B 16
+Trace|Palette item 103: R A5, G 2F, B 03
+Trace|Palette item 104: R A6, G 2E, B 00
+Trace|Palette item 105: R A6, G 2E, B 01
+Trace|Palette item 106: R A6, G 2E, B 02
+Trace|Palette item 107: R A6, G 2F, B 00
+Trace|Palette item 108: R A6, G 2F, B 03
+Trace|Palette item 109: R A6, G 41, B 2E
+Trace|Palette item 110: R A6, G 42, B 2E
+Trace|Palette item 111: R A7, G 2C, B 00
+Trace|Palette item 112: R A7, G 2D, B 00
+Trace|Palette item 113: R A7, G 2D, B 16
+Trace|Palette item 114: R A7, G 2D, B 22
+Trace|Palette item 115: R A7, G 2E, B 00
+Trace|Palette item 116: R A7, G 2E, B 01
+Trace|Palette item 117: R A7, G 2E, B 02
+Trace|Palette item 118: R A7, G 30, B 04
+Trace|Palette item 119: R A8, G 2D, B 00
+Trace|Palette item 120: R A8, G 2D, B 01
+Trace|Palette item 121: R A8, G 2D, B 02
+Trace|Palette item 122: R A8, G 2D, B 03
+Trace|Palette item 123: R A8, G 2D, B 0E
+Trace|Palette item 124: R A8, G 2E, B 00
+Trace|Palette item 125: R A8, G 37, B 1D
+Trace|Palette item 126: R A8, G 52, B 45
+Trace|Palette item 127: R A8, G 53, B 45
+Trace|Palette item 128: R A9, G 2D, B 00
+Trace|Palette item 129: R A9, G 2D, B 02
+Trace|Palette item 130: R A9, G 2E, B 01
+Trace|Palette item 131: R A9, G 2E, B 02
+Trace|Palette item 132: R A9, G 2E, B 03
+Trace|Palette item 133: R A9, G 2E, B 04
+Trace|Palette item 134: R A9, G 41, B 2E
+Trace|Palette item 135: R AA, G 2D, B 02
+Trace|Palette item 136: R AA, G 2D, B 03
+Trace|Palette item 137: R AA, G 3C, B 27
+Trace|Palette item 138: R AA, G 4A, B 3B
+Trace|Palette item 139: R AA, G 52, B 45
+Trace|Palette item 140: R AA, G 65, B 5C
+Trace|Palette item 141: R AB, G 59, B 4D
+Trace|Palette item 142: R AB, G 6B, B 62
+Trace|Palette item 143: R AC, G 43, B 32
+Trace|Palette item 144: R AC, G 5F, B 55
+Trace|Palette item 145: R AC, G 65, B 5C
+Trace|Palette item 146: R AD, G 6A, B 62
+Trace|Palette item 147: R AD, G 79, B 72
+Trace|Palette item 148: R AD, G 7E, B 77
+Trace|Palette item 149: R AE, G 6F, B 68
+Trace|Palette item 150: R AE, G 74, B 6D
+Trace|Palette item 151: R AF, G 79, B 72
+Trace|Palette item 152: R AF, G 86, B 80
+Trace|Palette item 153: R B0, G 7D, B 77
+Trace|Palette item 154: R B0, G 8E, B 88
+Trace|Palette item 155: R B1, G 85, B 80
+Trace|Palette item 156: R B1, G 89, B 84
+Trace|Palette item 157: R B1, G 8E, B 88
+Trace|Palette item 158: R B2, G 8D, B 88
+Trace|Palette item 159: R B2, G 95, B 90
+Trace|Palette item 160: R B3, G 91, B 8C
+Trace|Palette item 161: R B3, G 94, B 90
+Trace|Palette item 162: R B3, G 98, B 94
+Trace|Palette item 163: R B4, G 98, B 94
+Trace|Palette item 164: R B4, G 9E, B 9B
+Trace|Palette item 165: R B5, G 8D, B 50
+Trace|Palette item 166: R B5, G 9B, B 97
+Trace|Palette item 167: R B5, G 9E, B 9B
+Trace|Palette item 168: R B6, G A1, B 9E
+Trace|Palette item 169: R B6, G A4, B A1
+Trace|Palette item 170: R B6, G A8, B A4
+Trace|Palette item 171: R B6, G AB, B A7
+Trace|Palette item 172: R B7, G A8, B A4
+Trace|Palette item 173: R B7, G AB, B A7
+Trace|Palette item 174: R B8, G 00, B 00
+Trace|Palette item 175: R B8, G AA, B A7
+Trace|Palette item 176: R B8, G AD, B AA
+Trace|Palette item 177: R B8, G B3, B B0
+Trace|Palette item 178: R B9, G 85, B 5C
+Trace|Palette item 179: R B9, G B3, B B0
+Trace|Palette item 180: R B9, G B6, B B3
+Trace|Palette item 181: R BA, G 12, B 12
+Trace|Palette item 182: R BA, G B6, B B3
+Trace|Palette item 183: R BA, G B8, B B6
+Trace|Palette item 184: R BB, G 13, B 13
+Trace|Palette item 185: R BB, G BD, B BB
+Trace|Palette item 186: R BB, G C0, B BE
+Trace|Palette item 187: R BC, G BD, B BB
+Trace|Palette item 188: R BC, G C0, B BE
+Trace|Palette item 189: R BD, G C2, B C0
+Trace|Palette item 190: R BD, G C7, B C5
+Trace|Palette item 191: R BE, G 00, B FF
+Trace|Palette item 192: R BE, G C7, B C5
+Trace|Palette item 193: R BE, G CA, B C8
+Trace|Palette item 194: R BF, G CC, B CA
+Trace|Palette item 195: R C3, G 2B, B F8
+Trace|Palette item 196: R CC, G 37, B FF
+Trace|Palette item 197: R DA, G DA, B DA
+Trace|Palette item 198: R DF, G 46, B 7E
+Trace|Palette item 199: R E2, G 62, B 01
+Trace|Palette item 200: R E2, G 63, B 02
+Trace|Palette item 201: R E3, G 63, B 02
+Trace|Palette item 202: R E4, G 64, B 03
+Trace|Palette item 203: R E5, G 65, B 04
+Trace|Palette item 204: R E9, G 69, B 08
+Trace|Palette item 205: R EA, G 6B, B 0A
+Trace|Palette item 206: R EC, G 6D, B 0B
+Trace|Palette item 207: R EC, G 6D, B 0C
+Trace|Palette item 208: R ED, G 6E, B 0C
+Trace|Palette item 209: R EE, G 6F, B 0E
+Trace|Palette item 210: R EE, G 70, B 0E
+Trace|Palette item 211: R EF, G 71, B 0F
+Trace|Palette item 212: R F0, G 71, B 10
+Trace|Palette item 213: R F3, G 76, B 14
+Trace|Palette item 214: R F4, G 77, B 16
+Trace|Palette item 215: R F5, G 78, B 16
+Trace|Palette item 216: R F5, G 79, B 17
+Trace|Palette item 217: R F6, G 7B, B 18
+Trace|Palette item 218: R F7, G 7B, B 19
+Trace|Palette item 219: R F9, G 80, B 1D
+Trace|Palette item 220: R F9, G 82, B 1E
+Trace|Palette item 221: R F9, G 84, B 20
+Trace|Palette item 222: R F9, G 90, B 28
+Trace|Palette item 223: R F9, G 93, B 2B
+Trace|Palette item 224: R FE, G 12, B 12
+Trace|Palette item 225: R FE, G 13, B 13
+Trace|Palette item 226: R FE, G C7, B C7
+Trace|Palette item 227: R FF, G 00, B 00
+Trace|Palette item 228: R FF, G 13, B 13
+Trace|Palette item 229: R FF, G FF, B FF
+Trace|Resource 1 offset: 38837, length: 38084...
+Debug|Reading resource 1...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 294, RowLength: 126
+Trace|BPP: 8, PaletteColors: 256, Transaparency: False
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 11, G 1C, B 11
+Trace|Palette item 2: R 1C, G 2E, B 1C
+Trace|Palette item 3: R 1D, G 38, B 22
+Trace|Palette item 4: R 1F, G 31, B 1F
+Trace|Palette item 5: R 28, G 62, B 40
+Trace|Palette item 6: R 29, G 28, B 20
+Trace|Palette item 7: R 29, G 4B, B 38
+Trace|Palette item 8: R 29, G 52, B 30
+Trace|Palette item 9: R 2E, G 16, B 08
+Trace|Palette item 10: R 2E, G 1C, B 0A
+Trace|Palette item 11: R 31, G 1E, B 0B
+Trace|Palette item 12: R 32, G 53, B 32
+Trace|Palette item 13: R 39, G 5B, B 39
+Trace|Palette item 14: R 3A, G 2F, B 1E
+Trace|Palette item 15: R 3A, G 5C, B 3A
+Trace|Palette item 16: R 3B, G 27, B 13
+Trace|Palette item 17: R 3C, G 6E, B 42
+Trace|Palette item 18: R 41, G 28, B 18
+Trace|Palette item 19: R 44, G 33, B 21
+Trace|Palette item 20: R 45, G 14, B 15
+Trace|Palette item 21: R 48, G 7F, B 4F
+Trace|Palette item 22: R 4D, G 33, B 17
+Trace|Palette item 23: R 50, G 90, B 26
+Trace|Palette item 24: R 51, G 3D, B 24
+Trace|Palette item 25: R 55, G 3A, B 1F
+Trace|Palette item 26: R 57, G 97, B 2D
+Trace|Palette item 27: R 59, G 3D, B 29
+Trace|Palette item 28: R 5A, G 34, B 20
+Trace|Palette item 29: R 5A, G 3C, B 29
+Trace|Palette item 30: R 5A, G 44, B 24
+Trace|Palette item 31: R 5F, G 9F, B 35
+Trace|Palette item 32: R 60, G A0, B 36
+Trace|Palette item 33: R 61, G 4B, B 2E
+Trace|Palette item 34: R 62, G A2, B 38
+Trace|Palette item 35: R 64, G A4, B 3A
+Trace|Palette item 36: R 66, G A6, B 3C
+Trace|Palette item 37: R 67, G 50, B 2C
+Trace|Palette item 38: R 68, G A8, B 3E
+Trace|Palette item 39: R 69, G 1F, B 21
+Trace|Palette item 40: R 6A, G AA, B 40
+Trace|Palette item 41: R 6C, G 6C, B 6C
+Trace|Palette item 42: R 6C, G AC, B 42
+Trace|Palette item 43: R 6F, G AF, B 45
+Trace|Palette item 44: R 70, G 52, B 2E
+Trace|Palette item 45: R 70, G B0, B 46
+Trace|Palette item 46: R 73, G B3, B 49
+Trace|Palette item 47: R 74, G 58, B 44
+Trace|Palette item 48: R 74, G B4, B 4A
+Trace|Palette item 49: R 76, G B6, B 4C
+Trace|Palette item 50: R 79, G 55, B 3A
+Trace|Palette item 51: R 7A, G 5A, B 34
+Trace|Palette item 52: R 7B, G 50, B 39
+Trace|Palette item 53: R 7E, G 62, B 37
+Trace|Palette item 54: R 7E, G BE, B 54
+Trace|Palette item 55: R 82, G 61, B 3A
+Trace|Palette item 56: R 82, G B1, B 52
+Trace|Palette item 57: R 87, G 87, B 87
+Trace|Palette item 58: R 88, G 65, B 39
+Trace|Palette item 59: R 8A, G B9, B 5A
+Trace|Palette item 60: R 8B, G BA, B E5
+Trace|Palette item 61: R 8C, G BB, B E5
+Trace|Palette item 62: R 8C, G BC, B E6
+Trace|Palette item 63: R 8C, G BC, B E8
+Trace|Palette item 64: R 8D, G BC, B 5D
+Trace|Palette item 65: R 8E, G BD, B E8
+Trace|Palette item 66: R 8E, G BE, B E8
+Trace|Palette item 67: R 90, G BE, B E8
+Trace|Palette item 68: R 90, G BF, B 60
+Trace|Palette item 69: R 91, G BD, B E6
+Trace|Palette item 70: R 92, G BF, B E8
+Trace|Palette item 71: R 92, G C1, B 62
+Trace|Palette item 72: R 93, G C0, B E8
+Trace|Palette item 73: R 94, G 5D, B 41
+Trace|Palette item 74: R 94, G BE, B E6
+Trace|Palette item 75: R 94, G C0, B E8
+Trace|Palette item 76: R 96, G 6C, B 4A
+Trace|Palette item 77: R 96, G 74, B 41
+Trace|Palette item 78: R 96, G C0, B E6
+Trace|Palette item 79: R 96, G C1, B E8
+Trace|Palette item 80: R 97, G C2, B E9
+Trace|Palette item 81: R 97, G C6, B 67
+Trace|Palette item 82: R 98, G C2, B E8
+Trace|Palette item 83: R 99, G C1, B E5
+Trace|Palette item 84: R 9A, G C3, B E8
+Trace|Palette item 85: R 9B, G C4, B E9
+Trace|Palette item 86: R 9C, G C2, B E5
+Trace|Palette item 87: R 9C, G C3, B E8
+Trace|Palette item 88: R 9C, G C4, B E8
+Trace|Palette item 89: R 9C, G CB, B 6C
+Trace|Palette item 90: R 9E, G C4, B E6
+Trace|Palette item 91: R 9E, G C4, B E8
+Trace|Palette item 92: R A0, G C5, B E8
+Trace|Palette item 93: R A0, G C6, B E8
+Trace|Palette item 94: R A1, G C5, B E6
+Trace|Palette item 95: R A2, G C5, B E8
+Trace|Palette item 96: R A2, G C6, B E8
+Trace|Palette item 97: R A3, G 00, B DA
+Trace|Palette item 98: R A4, G C6, B E8
+Trace|Palette item 99: R A4, G C8, B E8
+Trace|Palette item 100: R A5, G 07, B 00
+Trace|Palette item 101: R A5, G CA, B E9
+Trace|Palette item 102: R A6, G C8, B E8
+Trace|Palette item 103: R A6, G CA, B E8
+Trace|Palette item 104: R A7, G C7, B E4
+Trace|Palette item 105: R A7, G C8, B E4
+Trace|Palette item 106: R A7, G CA, B EA
+Trace|Palette item 107: R A9, G C9, B E8
+Trace|Palette item 108: R A9, G CD, B E9
+Trace|Palette item 109: R AA, G C8, B E5
+Trace|Palette item 110: R AB, G D0, B EB
+Trace|Palette item 111: R AB, G D1, B EC
+Trace|Palette item 112: R AC, G CA, B E8
+Trace|Palette item 113: R AD, G CA, B E5
+Trace|Palette item 114: R AD, G CC, B E7
+Trace|Palette item 115: R AD, G D0, B EA
+Trace|Palette item 116: R AE, G CC, B E8
+Trace|Palette item 117: R AE, G D2, B EC
+Trace|Palette item 118: R AF, G D4, B EC
+Trace|Palette item 119: R B0, G CA, B E5
+Trace|Palette item 120: R B0, G D3, B EC
+Trace|Palette item 121: R B1, G CD, B E8
+Trace|Palette item 122: R B1, G D1, B EA
+Trace|Palette item 123: R B1, G D5, B EC
+Trace|Palette item 124: R B2, G CC, B E5
+Trace|Palette item 125: R B2, G D8, B EE
+Trace|Palette item 126: R B3, G CD, B E3
+Trace|Palette item 127: R B3, G D4, B EB
+Trace|Palette item 128: R B4, G CE, B E8
+Trace|Palette item 129: R B5, G 8D, B 50
+Trace|Palette item 130: R B5, G CE, B E6
+Trace|Palette item 131: R B5, G D4, B EA
+Trace|Palette item 132: R B5, G D6, B EC
+Trace|Palette item 133: R B5, G D9, B ED
+Trace|Palette item 134: R B6, G D0, B E8
+Trace|Palette item 135: R B6, G DC, B EF
+Trace|Palette item 136: R B6, G DD, B F0
+Trace|Palette item 137: R B7, G CE, B E3
+Trace|Palette item 138: R B7, G D0, B E7
+Trace|Palette item 139: R B8, G 00, B 00
+Trace|Palette item 140: R B8, G CF, B E8
+Trace|Palette item 141: R B9, G 85, B 5C
+Trace|Palette item 142: R B9, G CE, B E3
+Trace|Palette item 143: R B9, G CE, B E5
+Trace|Palette item 144: R B9, G D0, B E6
+Trace|Palette item 145: R B9, G D0, B E8
+Trace|Palette item 146: R B9, G D5, B E9
+Trace|Palette item 147: R B9, G D9, B EC
+Trace|Palette item 148: R B9, G DC, B EE
+Trace|Palette item 149: R B9, G DE, B F0
+Trace|Palette item 150: R B9, G E1, B F1
+Trace|Palette item 151: R BA, G 12, B 12
+Trace|Palette item 152: R BA, G D8, B EB
+Trace|Palette item 153: R BB, G E4, B F2
+Trace|Palette item 154: R BC, G D2, B E8
+Trace|Palette item 155: R BC, G E4, B F2
+Trace|Palette item 156: R BD, G D0, B E3
+Trace|Palette item 157: R BD, G D2, B E6
+Trace|Palette item 158: R BD, G D5, B E9
+Trace|Palette item 159: R BD, G DA, B EC
+Trace|Palette item 160: R BD, G DD, B ED
+Trace|Palette item 161: R BD, G E1, B F0
+Trace|Palette item 162: R BE, G 00, B FF
+Trace|Palette item 163: R BE, G D4, B E7
+Trace|Palette item 164: R BE, G D8, B EA
+Trace|Palette item 165: R BE, G E0, B EF
+Trace|Palette item 166: R BE, G E7, B F4
+Trace|Palette item 167: R BE, G E8, B F4
+Trace|Palette item 168: R C0, G D2, B E5
+Trace|Palette item 169: R C0, G D4, B E7
+Trace|Palette item 170: R C0, G D9, B EA
+Trace|Palette item 171: R C0, G DB, B EC
+Trace|Palette item 172: R C0, G DD, B EC
+Trace|Palette item 173: R C0, G E2, B F0
+Trace|Palette item 174: R C1, G D5, B E8
+Trace|Palette item 175: R C1, G E0, B EE
+Trace|Palette item 176: R C1, G E5, B F1
+Trace|Palette item 177: R C1, G E9, B F4
+Trace|Palette item 178: R C2, G D3, B E3
+Trace|Palette item 179: R C2, G D4, B E4
+Trace|Palette item 180: R C2, G D4, B E6
+Trace|Palette item 181: R C2, G D6, B E7
+Trace|Palette item 182: R C2, G E8, B F3
+Trace|Palette item 183: R C2, G EC, B F5
+Trace|Palette item 184: R C3, G 2B, B F8
+Trace|Palette item 185: R C4, G D4, B E4
+Trace|Palette item 186: R C4, G D5, B E6
+Trace|Palette item 187: R C4, G D6, B E6
+Trace|Palette item 188: R C4, G EA, B F4
+Trace|Palette item 189: R C4, G EC, B F5
+Trace|Palette item 190: R C5, G D4, B E3
+Trace|Palette item 191: R C5, G D6, B E8
+Trace|Palette item 192: R C6, G D5, B E4
+Trace|Palette item 193: R C6, G D6, B E5
+Trace|Palette item 194: R C6, G D6, B E6
+Trace|Palette item 195: R C8, G D6, B E6
+Trace|Palette item 196: R C8, G D8, B E6
+Trace|Palette item 197: R C9, G D6, B E3
+Trace|Palette item 198: R CA, G D8, B E4
+Trace|Palette item 199: R CA, G D8, B E6
+Trace|Palette item 200: R CC, G 37, B FF
+Trace|Palette item 201: R CC, G D7, B E3
+Trace|Palette item 202: R CC, G D8, B E4
+Trace|Palette item 203: R CC, G D9, B E6
+Trace|Palette item 204: R CC, G DA, B E6
+Trace|Palette item 205: R CD, G D8, B E2
+Trace|Palette item 206: R CD, G DA, B E5
+Trace|Palette item 207: R CE, G D9, B E4
+Trace|Palette item 208: R CE, G DA, B E5
+Trace|Palette item 209: R CE, G DA, B E6
+Trace|Palette item 210: R D0, G DA, B E5
+Trace|Palette item 211: R D1, G DA, B E2
+Trace|Palette item 212: R D1, G DC, B E6
+Trace|Palette item 213: R D2, G DC, B E4
+Trace|Palette item 214: R D2, G DC, B E6
+Trace|Palette item 215: R D4, G DB, B E2
+Trace|Palette item 216: R D4, G DC, B E4
+Trace|Palette item 217: R D4, G DD, B E6
+Trace|Palette item 218: R D5, G DE, B E6
+Trace|Palette item 219: R D6, G DC, B E2
+Trace|Palette item 220: R D6, G DD, B E4
+Trace|Palette item 221: R D6, G DE, B E4
+Trace|Palette item 222: R D6, G DE, B E6
+Trace|Palette item 223: R D8, G DE, B E4
+Trace|Palette item 224: R D9, G DD, B E1
+Trace|Palette item 225: R DA, G DA, B DA
+Trace|Palette item 226: R DA, G DF, B E4
+Trace|Palette item 227: R DB, G E0, B E4
+Trace|Palette item 228: R DC, G DE, B E0
+Trace|Palette item 229: R DC, G E0, B E4
+Trace|Palette item 230: R DD, G DE, B DF
+Trace|Palette item 231: R DD, G E0, B E2
+Trace|Palette item 232: R DE, G E1, B E4
+Trace|Palette item 233: R DF, G 46, B 7E
+Trace|Palette item 234: R DF, G E2, B E4
+Trace|Palette item 235: R E0, G E2, B E4
+Trace|Palette item 236: R E1, G E2, B E2
+Trace|Palette item 237: R E2, G 62, B 01
+Trace|Palette item 238: R E4, G 64, B 03
+Trace|Palette item 239: R E5, G 65, B 04
+Trace|Palette item 240: R E9, G 69, B 08
+Trace|Palette item 241: R EC, G 6D, B 0B
+Trace|Palette item 242: R ED, G 6E, B 0D
+Trace|Palette item 243: R EE, G 70, B 0E
+Trace|Palette item 244: R F0, G 71, B 10
+Trace|Palette item 245: R F3, G 76, B 14
+Trace|Palette item 246: R F4, G 77, B 16
+Trace|Palette item 247: R F5, G 78, B 16
+Trace|Palette item 248: R F6, G 7B, B 18
+Trace|Palette item 249: R F9, G 81, B 1D
+Trace|Palette item 250: R F9, G 84, B 20
+Trace|Palette item 251: R F9, G 92, B 2A
+Trace|Palette item 252: R FE, G 12, B 12
+Trace|Palette item 253: R FE, G C7, B C7
+Trace|Palette item 254: R FF, G 00, B 00
+Trace|Palette item 255: R FF, G FF, B FF
+Trace|Resource 2 offset: 76921, length: 38084...
+Debug|Reading resource 2...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 294, RowLength: 126
+Trace|BPP: 8, PaletteColors: 256, Transaparency: False
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G 00, B 05
+Trace|Palette item 2: R 00, G 00, B 08
+Trace|Palette item 3: R 00, G 00, B 0A
+Trace|Palette item 4: R 00, G 00, B 0C
+Trace|Palette item 5: R 02, G 01, B 0C
+Trace|Palette item 6: R 03, G 02, B 07
+Trace|Palette item 7: R 03, G 02, B 0D
+Trace|Palette item 8: R 03, G 02, B 0E
+Trace|Palette item 9: R 04, G 03, B 0D
+Trace|Palette item 10: R 04, G 03, B 0E
+Trace|Palette item 11: R 05, G 04, B 0E
+Trace|Palette item 12: R 05, G 04, B 0F
+Trace|Palette item 13: R 05, G 05, B 0F
+Trace|Palette item 14: R 06, G 05, B 0F
+Trace|Palette item 15: R 06, G 05, B 10
+Trace|Palette item 16: R 06, G 06, B 0F
+Trace|Palette item 17: R 06, G 06, B 10
+Trace|Palette item 18: R 07, G 06, B 0F
+Trace|Palette item 19: R 07, G 06, B 10
+Trace|Palette item 20: R 07, G 06, B 11
+Trace|Palette item 21: R 07, G 06, B 12
+Trace|Palette item 22: R 07, G 07, B 10
+Trace|Palette item 23: R 07, G 07, B 11
+Trace|Palette item 24: R 08, G 07, B 10
+Trace|Palette item 25: R 08, G 07, B 11
+Trace|Palette item 26: R 08, G 07, B 12
+Trace|Palette item 27: R 08, G 08, B 11
+Trace|Palette item 28: R 08, G 08, B 12
+Trace|Palette item 29: R 08, G 08, B 13
+Trace|Palette item 30: R 08, G 09, B 13
+Trace|Palette item 31: R 09, G 07, B 11
+Trace|Palette item 32: R 09, G 08, B 11
+Trace|Palette item 33: R 09, G 08, B 12
+Trace|Palette item 34: R 09, G 08, B 13
+Trace|Palette item 35: R 09, G 09, B 11
+Trace|Palette item 36: R 09, G 09, B 12
+Trace|Palette item 37: R 09, G 09, B 13
+Trace|Palette item 38: R 09, G 09, B 14
+Trace|Palette item 39: R 0A, G 08, B 13
+Trace|Palette item 40: R 0A, G 09, B 14
+Trace|Palette item 41: R 0A, G 0A, B 11
+Trace|Palette item 42: R 0A, G 0A, B 12
+Trace|Palette item 43: R 0A, G 0A, B 13
+Trace|Palette item 44: R 0A, G 0A, B 14
+Trace|Palette item 45: R 0B, G 0A, B 13
+Trace|Palette item 46: R 0B, G 0A, B 14
+Trace|Palette item 47: R 0B, G 0A, B 15
+Trace|Palette item 48: R 0B, G 0B, B 10
+Trace|Palette item 49: R 0B, G 0B, B 11
+Trace|Palette item 50: R 0B, G 0B, B 12
+Trace|Palette item 51: R 0B, G 0B, B 14
+Trace|Palette item 52: R 0B, G 0B, B 16
+Trace|Palette item 53: R 0C, G 0B, B 15
+Trace|Palette item 54: R 0C, G 0C, B 0F
+Trace|Palette item 55: R 0C, G 0C, B 10
+Trace|Palette item 56: R 0C, G 0C, B 11
+Trace|Palette item 57: R 0C, G 0C, B 12
+Trace|Palette item 58: R 0C, G 0C, B 15
+Trace|Palette item 59: R 0C, G 0C, B 16
+Trace|Palette item 60: R 0D, G 0D, B 0F
+Trace|Palette item 61: R 0D, G 0D, B 10
+Trace|Palette item 62: R 0D, G 0D, B 11
+Trace|Palette item 63: R 0E, G 0D, B 16
+Trace|Palette item 64: R 0E, G 0E, B 0F
+Trace|Palette item 65: R 0E, G 0E, B 10
+Trace|Palette item 66: R 0E, G 0E, B 17
+Trace|Palette item 67: R 0E, G 0E, B 18
+Trace|Palette item 68: R 10, G 0F, B 18
+Trace|Palette item 69: R 10, G 10, B 1A
+Trace|Palette item 70: R 11, G 10, B 19
+Trace|Palette item 71: R 11, G 1C, B 11
+Trace|Palette item 72: R 12, G 11, B 1A
+Trace|Palette item 73: R 12, G 12, B 1A
+Trace|Palette item 74: R 13, G 12, B 1C
+Trace|Palette item 75: R 14, G 13, B 1D
+Trace|Palette item 76: R 14, G 14, B 1B
+Trace|Palette item 77: R 14, G 14, B 1D
+Trace|Palette item 78: R 16, G 15, B 1F
+Trace|Palette item 79: R 16, G 16, B 1D
+Trace|Palette item 80: R 16, G 16, B 1E
+Trace|Palette item 81: R 17, G 16, B 20
+Trace|Palette item 82: R 18, G 17, B 1F
+Trace|Palette item 83: R 18, G 17, B 20
+Trace|Palette item 84: R 19, G 19, B 22
+Trace|Palette item 85: R 1B, G 1B, B 24
+Trace|Palette item 86: R 1C, G 1B, B 24
+Trace|Palette item 87: R 1C, G 1C, B 24
+Trace|Palette item 88: R 1C, G 2E, B 1C
+Trace|Palette item 89: R 1D, G 1D, B 26
+Trace|Palette item 90: R 1D, G 38, B 22
+Trace|Palette item 91: R 1E, G 1D, B 25
+Trace|Palette item 92: R 1E, G 1E, B 26
+Trace|Palette item 93: R 1E, G 1E, B 28
+Trace|Palette item 94: R 1F, G 31, B 1F
+Trace|Palette item 95: R 22, G 21, B 28
+Trace|Palette item 96: R 24, G 24, B 2C
+Trace|Palette item 97: R 26, G 25, B 2F
+Trace|Palette item 98: R 27, G 27, B 2D
+Trace|Palette item 99: R 28, G 27, B 30
+Trace|Palette item 100: R 28, G 28, B 2C
+Trace|Palette item 101: R 28, G 28, B 2E
+Trace|Palette item 102: R 28, G 62, B 40
+Trace|Palette item 103: R 29, G 28, B 20
+Trace|Palette item 104: R 29, G 4B, B 38
+Trace|Palette item 105: R 29, G 52, B 30
+Trace|Palette item 106: R 2A, G 29, B 32
+Trace|Palette item 107: R 2A, G 2A, B 31
+Trace|Palette item 108: R 2C, G 2B, B 31
+Trace|Palette item 109: R 2D, G 2D, B 33
+Trace|Palette item 110: R 2E, G 16, B 08
+Trace|Palette item 111: R 2E, G 1C, B 0A
+Trace|Palette item 112: R 2E, G 2D, B 36
+Trace|Palette item 113: R 2F, G 2E, B 36
+Trace|Palette item 114: R 30, G 30, B 38
+Trace|Palette item 115: R 31, G 1E, B 0B
+Trace|Palette item 116: R 31, G 31, B 37
+Trace|Palette item 117: R 32, G 32, B 39
+Trace|Palette item 118: R 32, G 32, B 3A
+Trace|Palette item 119: R 32, G 53, B 32
+Trace|Palette item 120: R 33, G 33, B 35
+Trace|Palette item 121: R 35, G 35, B 3C
+Trace|Palette item 122: R 39, G 5B, B 39
+Trace|Palette item 123: R 3A, G 2F, B 1E
+Trace|Palette item 124: R 3A, G 5C, B 3A
+Trace|Palette item 125: R 3B, G 27, B 13
+Trace|Palette item 126: R 3C, G 6E, B 42
+Trace|Palette item 127: R 3D, G 3D, B 45
+Trace|Palette item 128: R 3E, G 3E, B 46
+Trace|Palette item 129: R 40, G 40, B 47
+Trace|Palette item 130: R 41, G 28, B 18
+Trace|Palette item 131: R 41, G 41, B 48
+Trace|Palette item 132: R 44, G 33, B 21
+Trace|Palette item 133: R 45, G 14, B 15
+Trace|Palette item 134: R 48, G 48, B 4E
+Trace|Palette item 135: R 48, G 7F, B 4F
+Trace|Palette item 136: R 4D, G 33, B 17
+Trace|Palette item 137: R 4D, G 4D, B 55
+Trace|Palette item 138: R 4D, G 4D, B 56
+Trace|Palette item 139: R 50, G 56, B 66
+Trace|Palette item 140: R 50, G 90, B 26
+Trace|Palette item 141: R 51, G 3D, B 24
+Trace|Palette item 142: R 51, G 51, B 58
+Trace|Palette item 143: R 52, G 52, B 58
+Trace|Palette item 144: R 55, G 3A, B 1F
+Trace|Palette item 145: R 55, G 55, B 5D
+Trace|Palette item 146: R 57, G 57, B 5E
+Trace|Palette item 147: R 57, G 97, B 2D
+Trace|Palette item 148: R 59, G 3D, B 29
+Trace|Palette item 149: R 5A, G 34, B 20
+Trace|Palette item 150: R 5A, G 3C, B 29
+Trace|Palette item 151: R 5A, G 44, B 24
+Trace|Palette item 152: R 5B, G 5B, B 62
+Trace|Palette item 153: R 5F, G 67, B 7A
+Trace|Palette item 154: R 5F, G 9F, B 35
+Trace|Palette item 155: R 60, G A0, B 36
+Trace|Palette item 156: R 61, G 4B, B 2E
+Trace|Palette item 157: R 61, G 60, B 67
+Trace|Palette item 158: R 61, G A1, B 37
+Trace|Palette item 159: R 62, G A2, B 38
+Trace|Palette item 160: R 64, G A4, B 3A
+Trace|Palette item 161: R 66, G A6, B 3C
+Trace|Palette item 162: R 67, G 50, B 2C
+Trace|Palette item 163: R 67, G 68, B 6F
+Trace|Palette item 164: R 67, G A7, B 3D
+Trace|Palette item 165: R 68, G A8, B 3E
+Trace|Palette item 166: R 69, G 1F, B 21
+Trace|Palette item 167: R 69, G A9, B 3F
+Trace|Palette item 168: R 6A, G AA, B 40
+Trace|Palette item 169: R 6B, G AB, B 41
+Trace|Palette item 170: R 6C, G 6C, B 6C
+Trace|Palette item 171: R 6C, G AC, B 42
+Trace|Palette item 172: R 6D, G 6D, B 73
+Trace|Palette item 173: R 6D, G AD, B 43
+Trace|Palette item 174: R 6E, G 6E, B 75
+Trace|Palette item 175: R 6F, G AF, B 45
+Trace|Palette item 176: R 70, G 52, B 2E
+Trace|Palette item 177: R 70, G B0, B 46
+Trace|Palette item 178: R 71, G B1, B 47
+Trace|Palette item 179: R 73, G B3, B 49
+Trace|Palette item 180: R 74, G 58, B 44
+Trace|Palette item 181: R 74, G 7D, B 93
+Trace|Palette item 182: R 74, G B4, B 4A
+Trace|Palette item 183: R 75, G B5, B 4B
+Trace|Palette item 184: R 76, G 76, B 7D
+Trace|Palette item 185: R 76, G B6, B 4C
+Trace|Palette item 186: R 79, G 55, B 3A
+Trace|Palette item 187: R 7A, G 5A, B 34
+Trace|Palette item 188: R 7A, G 7A, B 80
+Trace|Palette item 189: R 7B, G 50, B 39
+Trace|Palette item 190: R 7E, G 62, B 37
+Trace|Palette item 191: R 7E, G BE, B 54
+Trace|Palette item 192: R 7F, G BF, B 55
+Trace|Palette item 193: R 81, G B0, B 51
+Trace|Palette item 194: R 82, G 61, B 3A
+Trace|Palette item 195: R 83, G B2, B 53
+Trace|Palette item 196: R 85, G 85, B 8D
+Trace|Palette item 197: R 87, G 87, B 87
+Trace|Palette item 198: R 88, G 65, B 39
+Trace|Palette item 199: R 89, G 89, B 90
+Trace|Palette item 200: R 8A, G B9, B 5A
+Trace|Palette item 201: R 8D, G BC, B 5D
+Trace|Palette item 202: R 90, G 97, B A5
+Trace|Palette item 203: R 90, G BF, B 60
+Trace|Palette item 204: R 92, G C1, B 62
+Trace|Palette item 205: R 93, G C2, B 63
+Trace|Palette item 206: R 94, G 5D, B 41
+Trace|Palette item 207: R 96, G 6C, B 4A
+Trace|Palette item 208: R 96, G 74, B 41
+Trace|Palette item 209: R 97, G C6, B 67
+Trace|Palette item 210: R 9C, G CB, B 6C
+Trace|Palette item 211: R A3, G 00, B DA
+Trace|Palette item 212: R A5, G 07, B 00
+Trace|Palette item 213: R AF, G B8, B CC
+Trace|Palette item 214: R B5, G 8D, B 50
+Trace|Palette item 215: R B8, G 00, B 00
+Trace|Palette item 216: R B9, G 85, B 5C
+Trace|Palette item 217: R BA, G 12, B 12
+Trace|Palette item 218: R BB, G 13, B 13
+Trace|Palette item 219: R BE, G 00, B FF
+Trace|Palette item 220: R C3, G 2B, B F8
+Trace|Palette item 221: R CC, G 37, B FF
+Trace|Palette item 222: R D9, G E4, B FF
+Trace|Palette item 223: R DA, G DA, B DA
+Trace|Palette item 224: R DF, G 46, B 7E
+Trace|Palette item 225: R E2, G 62, B 01
+Trace|Palette item 226: R E2, G 63, B 02
+Trace|Palette item 227: R E3, G 63, B 02
+Trace|Palette item 228: R E4, G 64, B 03
+Trace|Palette item 229: R E5, G 65, B 04
+Trace|Palette item 230: R E9, G 69, B 08
+Trace|Palette item 231: R EA, G 6B, B 0A
+Trace|Palette item 232: R EC, G 6D, B 0B
+Trace|Palette item 233: R EC, G 6D, B 0C
+Trace|Palette item 234: R ED, G 6E, B 0C
+Trace|Palette item 235: R EE, G 6F, B 0E
+Trace|Palette item 236: R EE, G 70, B 0E
+Trace|Palette item 237: R EF, G 71, B 0F
+Trace|Palette item 238: R F0, G 71, B 10
+Trace|Palette item 239: R F3, G 76, B 14
+Trace|Palette item 240: R F4, G 77, B 16
+Trace|Palette item 241: R F5, G 78, B 16
+Trace|Palette item 242: R F5, G 79, B 17
+Trace|Palette item 243: R F6, G 7B, B 18
+Trace|Palette item 244: R F7, G 7B, B 19
+Trace|Palette item 245: R F9, G 80, B 1D
+Trace|Palette item 246: R F9, G 82, B 1E
+Trace|Palette item 247: R F9, G 84, B 20
+Trace|Palette item 248: R F9, G 90, B 28
+Trace|Palette item 249: R F9, G 93, B 2B
+Trace|Palette item 250: R FE, G 12, B 12
+Trace|Palette item 251: R FE, G 13, B 13
+Trace|Palette item 252: R FE, G C7, B C7
+Trace|Palette item 253: R FF, G 00, B 00
+Trace|Palette item 254: R FF, G 13, B 13
+Trace|Palette item 255: R FF, G FF, B FF
+Trace|Resource 3 offset: 115005, length: 1080...
+Debug|Reading resource 3...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 24, Height: 40, RowLength: 24
+Trace|BPP: 8, PaletteColors: 26, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R E2, G 62, B 01
+Trace|Palette item 2: R E2, G 63, B 02
+Trace|Palette item 3: R E3, G 63, B 02
+Trace|Palette item 4: R E4, G 64, B 03
+Trace|Palette item 5: R E5, G 65, B 04
+Trace|Palette item 6: R E9, G 69, B 08
+Trace|Palette item 7: R EA, G 6B, B 0A
+Trace|Palette item 8: R EC, G 6D, B 0B
+Trace|Palette item 9: R EC, G 6D, B 0C
+Trace|Palette item 10: R ED, G 6E, B 0C
+Trace|Palette item 11: R EE, G 6F, B 0E
+Trace|Palette item 12: R EE, G 70, B 0E
+Trace|Palette item 13: R EF, G 71, B 0F
+Trace|Palette item 14: R F0, G 71, B 10
+Trace|Palette item 15: R F3, G 76, B 14
+Trace|Palette item 16: R F4, G 77, B 16
+Trace|Palette item 17: R F5, G 78, B 16
+Trace|Palette item 18: R F5, G 79, B 17
+Trace|Palette item 19: R F6, G 7B, B 18
+Trace|Palette item 20: R F7, G 7B, B 19
+Trace|Palette item 21: R F9, G 80, B 1D
+Trace|Palette item 22: R F9, G 82, B 1E
+Trace|Palette item 23: R F9, G 84, B 20
+Trace|Palette item 24: R F9, G 90, B 28
+Trace|Palette item 25: R F9, G 93, B 2B
+Trace|Resource 4 offset: 116085, length: 1080...
+Debug|Reading resource 4...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 24, Height: 40, RowLength: 24
+Trace|BPP: 8, PaletteColors: 26, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R E2, G 62, B 01
+Trace|Palette item 2: R E2, G 63, B 02
+Trace|Palette item 3: R E3, G 63, B 02
+Trace|Palette item 4: R E4, G 64, B 03
+Trace|Palette item 5: R E5, G 65, B 04
+Trace|Palette item 6: R E9, G 69, B 08
+Trace|Palette item 7: R EA, G 6B, B 0A
+Trace|Palette item 8: R EC, G 6D, B 0B
+Trace|Palette item 9: R EC, G 6D, B 0C
+Trace|Palette item 10: R ED, G 6E, B 0C
+Trace|Palette item 11: R EE, G 6F, B 0E
+Trace|Palette item 12: R EE, G 70, B 0E
+Trace|Palette item 13: R EF, G 71, B 0F
+Trace|Palette item 14: R F0, G 71, B 10
+Trace|Palette item 15: R F3, G 76, B 14
+Trace|Palette item 16: R F4, G 77, B 16
+Trace|Palette item 17: R F5, G 78, B 16
+Trace|Palette item 18: R F5, G 79, B 17
+Trace|Palette item 19: R F6, G 7B, B 18
+Trace|Palette item 20: R F7, G 7B, B 19
+Trace|Palette item 21: R F9, G 80, B 1D
+Trace|Palette item 22: R F9, G 82, B 1E
+Trace|Palette item 23: R F9, G 84, B 20
+Trace|Palette item 24: R F9, G 90, B 28
+Trace|Palette item 25: R F9, G 93, B 2B
+Trace|Resource 5 offset: 117165, length: 1080...
+Debug|Reading resource 5...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 24, Height: 40, RowLength: 24
+Trace|BPP: 8, PaletteColors: 26, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R E2, G 62, B 01
+Trace|Palette item 2: R E2, G 63, B 02
+Trace|Palette item 3: R E3, G 63, B 02
+Trace|Palette item 4: R E4, G 64, B 03
+Trace|Palette item 5: R E5, G 65, B 04
+Trace|Palette item 6: R E9, G 69, B 08
+Trace|Palette item 7: R EA, G 6B, B 0A
+Trace|Palette item 8: R EC, G 6D, B 0B
+Trace|Palette item 9: R EC, G 6D, B 0C
+Trace|Palette item 10: R ED, G 6E, B 0C
+Trace|Palette item 11: R EE, G 6F, B 0E
+Trace|Palette item 12: R EE, G 70, B 0E
+Trace|Palette item 13: R EF, G 71, B 0F
+Trace|Palette item 14: R F0, G 71, B 10
+Trace|Palette item 15: R F3, G 76, B 14
+Trace|Palette item 16: R F4, G 77, B 16
+Trace|Palette item 17: R F5, G 78, B 16
+Trace|Palette item 18: R F5, G 79, B 17
+Trace|Palette item 19: R F6, G 7B, B 18
+Trace|Palette item 20: R F7, G 7B, B 19
+Trace|Palette item 21: R F9, G 80, B 1D
+Trace|Palette item 22: R F9, G 82, B 1E
+Trace|Palette item 23: R F9, G 84, B 20
+Trace|Palette item 24: R F9, G 90, B 28
+Trace|Palette item 25: R F9, G 93, B 2B
+Trace|Resource 6 offset: 118245, length: 1080...
+Debug|Reading resource 6...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 24, Height: 40, RowLength: 24
+Trace|BPP: 8, PaletteColors: 26, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R E2, G 62, B 01
+Trace|Palette item 2: R E2, G 63, B 02
+Trace|Palette item 3: R E3, G 63, B 02
+Trace|Palette item 4: R E4, G 64, B 03
+Trace|Palette item 5: R E5, G 65, B 04
+Trace|Palette item 6: R E9, G 69, B 08
+Trace|Palette item 7: R EA, G 6B, B 0A
+Trace|Palette item 8: R EC, G 6D, B 0B
+Trace|Palette item 9: R EC, G 6D, B 0C
+Trace|Palette item 10: R ED, G 6E, B 0C
+Trace|Palette item 11: R EE, G 6F, B 0E
+Trace|Palette item 12: R EE, G 70, B 0E
+Trace|Palette item 13: R EF, G 71, B 0F
+Trace|Palette item 14: R F0, G 71, B 10
+Trace|Palette item 15: R F3, G 76, B 14
+Trace|Palette item 16: R F4, G 77, B 16
+Trace|Palette item 17: R F5, G 78, B 16
+Trace|Palette item 18: R F5, G 79, B 17
+Trace|Palette item 19: R F6, G 7B, B 18
+Trace|Palette item 20: R F7, G 7B, B 19
+Trace|Palette item 21: R F9, G 80, B 1D
+Trace|Palette item 22: R F9, G 82, B 1E
+Trace|Palette item 23: R F9, G 84, B 20
+Trace|Palette item 24: R F9, G 90, B 28
+Trace|Palette item 25: R F9, G 93, B 2B
+Trace|Resource 7 offset: 119325, length: 1080...
+Debug|Reading resource 7...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 24, Height: 40, RowLength: 24
+Trace|BPP: 8, PaletteColors: 26, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R E2, G 62, B 01
+Trace|Palette item 2: R E2, G 63, B 02
+Trace|Palette item 3: R E3, G 63, B 02
+Trace|Palette item 4: R E4, G 64, B 03
+Trace|Palette item 5: R E5, G 65, B 04
+Trace|Palette item 6: R E9, G 69, B 08
+Trace|Palette item 7: R EA, G 6B, B 0A
+Trace|Palette item 8: R EC, G 6D, B 0B
+Trace|Palette item 9: R EC, G 6D, B 0C
+Trace|Palette item 10: R ED, G 6E, B 0C
+Trace|Palette item 11: R EE, G 6F, B 0E
+Trace|Palette item 12: R EE, G 70, B 0E
+Trace|Palette item 13: R EF, G 71, B 0F
+Trace|Palette item 14: R F0, G 71, B 10
+Trace|Palette item 15: R F3, G 76, B 14
+Trace|Palette item 16: R F4, G 77, B 16
+Trace|Palette item 17: R F5, G 78, B 16
+Trace|Palette item 18: R F5, G 79, B 17
+Trace|Palette item 19: R F6, G 7B, B 18
+Trace|Palette item 20: R F7, G 7B, B 19
+Trace|Palette item 21: R F9, G 80, B 1D
+Trace|Palette item 22: R F9, G 82, B 1E
+Trace|Palette item 23: R F9, G 84, B 20
+Trace|Palette item 24: R F9, G 90, B 28
+Trace|Palette item 25: R F9, G 93, B 2B
+Trace|Resource 8 offset: 120405, length: 1080...
+Debug|Reading resource 8...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 24, Height: 40, RowLength: 24
+Trace|BPP: 8, PaletteColors: 26, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R E2, G 62, B 01
+Trace|Palette item 2: R E2, G 63, B 02
+Trace|Palette item 3: R E3, G 63, B 02
+Trace|Palette item 4: R E4, G 64, B 03
+Trace|Palette item 5: R E5, G 65, B 04
+Trace|Palette item 6: R E9, G 69, B 08
+Trace|Palette item 7: R EA, G 6B, B 0A
+Trace|Palette item 8: R EC, G 6D, B 0B
+Trace|Palette item 9: R EC, G 6D, B 0C
+Trace|Palette item 10: R ED, G 6E, B 0C
+Trace|Palette item 11: R EE, G 6F, B 0E
+Trace|Palette item 12: R EE, G 70, B 0E
+Trace|Palette item 13: R EF, G 71, B 0F
+Trace|Palette item 14: R F0, G 71, B 10
+Trace|Palette item 15: R F3, G 76, B 14
+Trace|Palette item 16: R F4, G 77, B 16
+Trace|Palette item 17: R F5, G 78, B 16
+Trace|Palette item 18: R F5, G 79, B 17
+Trace|Palette item 19: R F6, G 7B, B 18
+Trace|Palette item 20: R F7, G 7B, B 19
+Trace|Palette item 21: R F9, G 80, B 1D
+Trace|Palette item 22: R F9, G 82, B 1E
+Trace|Palette item 23: R F9, G 84, B 20
+Trace|Palette item 24: R F9, G 90, B 28
+Trace|Palette item 25: R F9, G 93, B 2B
+Trace|Resource 9 offset: 121485, length: 1080...
+Debug|Reading resource 9...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 24, Height: 40, RowLength: 24
+Trace|BPP: 8, PaletteColors: 26, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R E2, G 62, B 01
+Trace|Palette item 2: R E2, G 63, B 02
+Trace|Palette item 3: R E3, G 63, B 02
+Trace|Palette item 4: R E4, G 64, B 03
+Trace|Palette item 5: R E5, G 65, B 04
+Trace|Palette item 6: R E9, G 69, B 08
+Trace|Palette item 7: R EA, G 6B, B 0A
+Trace|Palette item 8: R EC, G 6D, B 0B
+Trace|Palette item 9: R EC, G 6D, B 0C
+Trace|Palette item 10: R ED, G 6E, B 0C
+Trace|Palette item 11: R EE, G 6F, B 0E
+Trace|Palette item 12: R EE, G 70, B 0E
+Trace|Palette item 13: R EF, G 71, B 0F
+Trace|Palette item 14: R F0, G 71, B 10
+Trace|Palette item 15: R F3, G 76, B 14
+Trace|Palette item 16: R F4, G 77, B 16
+Trace|Palette item 17: R F5, G 78, B 16
+Trace|Palette item 18: R F5, G 79, B 17
+Trace|Palette item 19: R F6, G 7B, B 18
+Trace|Palette item 20: R F7, G 7B, B 19
+Trace|Palette item 21: R F9, G 80, B 1D
+Trace|Palette item 22: R F9, G 82, B 1E
+Trace|Palette item 23: R F9, G 84, B 20
+Trace|Palette item 24: R F9, G 90, B 28
+Trace|Palette item 25: R F9, G 93, B 2B
+Trace|Resource 10 offset: 122565, length: 1080...
+Debug|Reading resource 10...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 24, Height: 40, RowLength: 24
+Trace|BPP: 8, PaletteColors: 26, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R E2, G 62, B 01
+Trace|Palette item 2: R E2, G 63, B 02
+Trace|Palette item 3: R E3, G 63, B 02
+Trace|Palette item 4: R E4, G 64, B 03
+Trace|Palette item 5: R E5, G 65, B 04
+Trace|Palette item 6: R E9, G 69, B 08
+Trace|Palette item 7: R EA, G 6B, B 0A
+Trace|Palette item 8: R EC, G 6D, B 0B
+Trace|Palette item 9: R EC, G 6D, B 0C
+Trace|Palette item 10: R ED, G 6E, B 0C
+Trace|Palette item 11: R EE, G 6F, B 0E
+Trace|Palette item 12: R EE, G 70, B 0E
+Trace|Palette item 13: R EF, G 71, B 0F
+Trace|Palette item 14: R F0, G 71, B 10
+Trace|Palette item 15: R F3, G 76, B 14
+Trace|Palette item 16: R F4, G 77, B 16
+Trace|Palette item 17: R F5, G 78, B 16
+Trace|Palette item 18: R F5, G 79, B 17
+Trace|Palette item 19: R F6, G 7B, B 18
+Trace|Palette item 20: R F7, G 7B, B 19
+Trace|Palette item 21: R F9, G 80, B 1D
+Trace|Palette item 22: R F9, G 82, B 1E
+Trace|Palette item 23: R F9, G 84, B 20
+Trace|Palette item 24: R F9, G 90, B 28
+Trace|Palette item 25: R F9, G 93, B 2B
+Trace|Resource 11 offset: 123645, length: 1080...
+Debug|Reading resource 11...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 24, Height: 40, RowLength: 24
+Trace|BPP: 8, PaletteColors: 26, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R E2, G 62, B 01
+Trace|Palette item 2: R E2, G 63, B 02
+Trace|Palette item 3: R E3, G 63, B 02
+Trace|Palette item 4: R E4, G 64, B 03
+Trace|Palette item 5: R E5, G 65, B 04
+Trace|Palette item 6: R E9, G 69, B 08
+Trace|Palette item 7: R EA, G 6B, B 0A
+Trace|Palette item 8: R EC, G 6D, B 0B
+Trace|Palette item 9: R EC, G 6D, B 0C
+Trace|Palette item 10: R ED, G 6E, B 0C
+Trace|Palette item 11: R EE, G 6F, B 0E
+Trace|Palette item 12: R EE, G 70, B 0E
+Trace|Palette item 13: R EF, G 71, B 0F
+Trace|Palette item 14: R F0, G 71, B 10
+Trace|Palette item 15: R F3, G 76, B 14
+Trace|Palette item 16: R F4, G 77, B 16
+Trace|Palette item 17: R F5, G 78, B 16
+Trace|Palette item 18: R F5, G 79, B 17
+Trace|Palette item 19: R F6, G 7B, B 18
+Trace|Palette item 20: R F7, G 7B, B 19
+Trace|Palette item 21: R F9, G 80, B 1D
+Trace|Palette item 22: R F9, G 82, B 1E
+Trace|Palette item 23: R F9, G 84, B 20
+Trace|Palette item 24: R F9, G 90, B 28
+Trace|Palette item 25: R F9, G 93, B 2B
+Trace|Resource 12 offset: 124725, length: 1080...
+Debug|Reading resource 12...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 24, Height: 40, RowLength: 24
+Trace|BPP: 8, PaletteColors: 26, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R E2, G 62, B 01
+Trace|Palette item 2: R E2, G 63, B 02
+Trace|Palette item 3: R E3, G 63, B 02
+Trace|Palette item 4: R E4, G 64, B 03
+Trace|Palette item 5: R E5, G 65, B 04
+Trace|Palette item 6: R E9, G 69, B 08
+Trace|Palette item 7: R EA, G 6B, B 0A
+Trace|Palette item 8: R EC, G 6D, B 0B
+Trace|Palette item 9: R EC, G 6D, B 0C
+Trace|Palette item 10: R ED, G 6E, B 0C
+Trace|Palette item 11: R EE, G 6F, B 0E
+Trace|Palette item 12: R EE, G 70, B 0E
+Trace|Palette item 13: R EF, G 71, B 0F
+Trace|Palette item 14: R F0, G 71, B 10
+Trace|Palette item 15: R F3, G 76, B 14
+Trace|Palette item 16: R F4, G 77, B 16
+Trace|Palette item 17: R F5, G 78, B 16
+Trace|Palette item 18: R F5, G 79, B 17
+Trace|Palette item 19: R F6, G 7B, B 18
+Trace|Palette item 20: R F7, G 7B, B 19
+Trace|Palette item 21: R F9, G 80, B 1D
+Trace|Palette item 22: R F9, G 82, B 1E
+Trace|Palette item 23: R F9, G 84, B 20
+Trace|Palette item 24: R F9, G 90, B 28
+Trace|Palette item 25: R F9, G 93, B 2B
+Trace|Resource 13 offset: 125805, length: 276...
+Debug|Reading resource 13...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 30, Height: 16, RowLength: 15
+Trace|BPP: 4, PaletteColors: 5, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G 00, B 00
+Trace|Palette item 2: R FF, G 00, B 00
+Trace|Palette item 3: R FF, G EC, B EC
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Resource 14 offset: 126081, length: 160...
+Debug|Reading resource 14...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 30, Height: 16, RowLength: 8
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G 00, B 00
+Trace|Palette item 2: R FF, G 00, B 00
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Resource 15 offset: 126241, length: 160...
+Debug|Reading resource 15...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 30, Height: 16, RowLength: 8
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G 00, B 00
+Trace|Palette item 2: R FF, G B7, B 00
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Resource 16 offset: 126401, length: 160...
+Debug|Reading resource 16...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 30, Height: 16, RowLength: 8
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G 00, B 00
+Trace|Palette item 2: R FF, G B7, B 00
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Resource 17 offset: 126561, length: 160...
+Debug|Reading resource 17...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 30, Height: 16, RowLength: 8
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G 00, B 00
+Trace|Palette item 2: R FF, G B7, B 00
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Resource 18 offset: 126721, length: 160...
+Debug|Reading resource 18...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 30, Height: 16, RowLength: 8
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G 00, B 00
+Trace|Palette item 2: R FF, G EC, B 00
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Resource 19 offset: 126881, length: 160...
+Debug|Reading resource 19...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 30, Height: 16, RowLength: 8
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G 00, B 00
+Trace|Palette item 2: R FF, G EC, B 00
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Resource 20 offset: 127041, length: 160...
+Debug|Reading resource 20...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 30, Height: 16, RowLength: 8
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G 00, B 00
+Trace|Palette item 2: R 3A, G F4, B 00
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Resource 21 offset: 127201, length: 160...
+Debug|Reading resource 21...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 30, Height: 16, RowLength: 8
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G 00, B 00
+Trace|Palette item 2: R 3A, G F4, B 00
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Resource 22 offset: 127361, length: 156...
+Debug|Reading resource 22...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 30, Height: 16, RowLength: 8
+Trace|BPP: 2, PaletteColors: 3, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G 00, B 00
+Trace|Palette item 2: R 3A, G F4, B 00
+Trace|Resource 23 offset: 127517, length: 84...
+Debug|Reading resource 23...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 15, Height: 15, RowLength: 4
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 24 offset: 127601, length: 84...
+Debug|Reading resource 24...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 15, Height: 15, RowLength: 4
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 25 offset: 127685, length: 84...
+Debug|Reading resource 25...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 15, Height: 15, RowLength: 4
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 26 offset: 127769, length: 84...
+Debug|Reading resource 26...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 15, Height: 15, RowLength: 4
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 27 offset: 127853, length: 84...
+Debug|Reading resource 27...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 15, Height: 15, RowLength: 4
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 28 offset: 127937, length: 84...
+Debug|Reading resource 28...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 15, Height: 15, RowLength: 4
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 29 offset: 128021, length: 84...
+Debug|Reading resource 29...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 15, Height: 15, RowLength: 4
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 30 offset: 128105, length: 84...
+Debug|Reading resource 30...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 15, Height: 15, RowLength: 4
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 31 offset: 128189, length: 88...
+Debug|Reading resource 31...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 15, Height: 15, RowLength: 4
+Trace|BPP: 2, PaletteColors: 3, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Resource 32 offset: 128277, length: 84...
+Debug|Reading resource 32...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 15, Height: 15, RowLength: 4
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 33 offset: 128361, length: 536...
+Debug|Reading resource 33...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 128, Height: 16, RowLength: 32
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 34 offset: 128897, length: 540...
+Debug|Reading resource 34...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 128, Height: 16, RowLength: 32
+Trace|BPP: 2, PaletteColors: 3, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Resource 35 offset: 129437, length: 540...
+Debug|Reading resource 35...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 128, Height: 16, RowLength: 32
+Trace|BPP: 2, PaletteColors: 3, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Resource 36 offset: 129977, length: 536...
+Debug|Reading resource 36...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 128, Height: 16, RowLength: 32
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 37 offset: 130513, length: 536...
+Debug|Reading resource 37...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 128, Height: 16, RowLength: 32
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 38 offset: 131049, length: 536...
+Debug|Reading resource 38...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 128, Height: 16, RowLength: 32
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 39 offset: 131585, length: 540...
+Debug|Reading resource 39...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 128, Height: 16, RowLength: 32
+Trace|BPP: 2, PaletteColors: 3, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Resource 40 offset: 132125, length: 84...
+Debug|Reading resource 40...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 15, Height: 15, RowLength: 4
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Resource 41 offset: 132209, length: 3424...
+Debug|Reading resource 41...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 32
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R AF, G BE, B CC
+Trace|Palette item 2: R AF, G BE, B CC
+Trace|Palette item 3: R AF, G BE, B CC
+Trace|Resource 42 offset: 135633, length: 6718...
+Debug|Reading resource 42...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 6, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Palette item 5: R FF, G FF, B FF
+Trace|Resource 43 offset: 142351, length: 6722...
+Debug|Reading resource 43...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 7, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Palette item 5: R 00, G A7, B FF
+Trace|Palette item 6: R FF, G FF, B FF
+Trace|Resource 44 offset: 149073, length: 6738...
+Debug|Reading resource 44...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 11, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G A7, B FF
+Trace|Palette item 2: R 64, G C9, B FF
+Trace|Palette item 3: R 00, G A7, B FF
+Trace|Palette item 4: R 00, G A7, B FF
+Trace|Palette item 5: R 64, G C9, B FF
+Trace|Palette item 6: R FF, G FF, B FF
+Trace|Palette item 7: R FF, G FF, B FF
+Trace|Palette item 8: R FF, G FF, B FF
+Trace|Palette item 9: R FF, G FF, B FF
+Trace|Palette item 10: R FF, G FF, B FF
+Trace|Resource 45 offset: 155811, length: 3424...
+Debug|Reading resource 45...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 32
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R AF, G BE, B CC
+Trace|Palette item 2: R AF, G BE, B CC
+Trace|Palette item 3: R AF, G BE, B CC
+Trace|Resource 46 offset: 159235, length: 3424...
+Debug|Reading resource 46...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 32
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Resource 47 offset: 162659, length: 6714...
+Debug|Reading resource 47...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 5, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R 00, G A7, B FF
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Resource 48 offset: 169373, length: 3424...
+Debug|Reading resource 48...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 32
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Resource 49 offset: 172797, length: 6714...
+Debug|Reading resource 49...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 5, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R 00, G A7, B FF
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Resource 50 offset: 179511, length: 6714...
+Debug|Reading resource 50...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 5, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Resource 51 offset: 186225, length: 6714...
+Debug|Reading resource 51...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 5, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Resource 52 offset: 192939, length: 6714...
+Debug|Reading resource 52...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 5, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R 00, G A7, B FF
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Resource 53 offset: 199653, length: 3416...
+Debug|Reading resource 53...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 32
+Trace|BPP: 2, PaletteColors: 2, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R EC, G FF, B 00
+Trace|Resource 54 offset: 203069, length: 6714...
+Debug|Reading resource 54...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 5, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R 00, G A7, B FF
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Resource 55 offset: 209783, length: 6722...
+Debug|Reading resource 55...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 7, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R B0, G B0, B B0
+Trace|Palette item 2: R B0, G B0, B B0
+Trace|Palette item 3: R BB, G C8, B D5
+Trace|Palette item 4: R BB, G C8, B D5
+Trace|Palette item 5: R BB, G C8, B D5
+Trace|Palette item 6: R BB, G C8, B D5
+Trace|Resource 56 offset: 216505, length: 6722...
+Debug|Reading resource 56...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 7, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R B0, G B0, B B0
+Trace|Palette item 2: R B0, G B0, B B0
+Trace|Palette item 3: R BB, G C8, B D5
+Trace|Palette item 4: R BB, G C8, B D5
+Trace|Palette item 5: R BB, G C8, B D5
+Trace|Palette item 6: R BB, G C8, B D5
+Trace|Resource 57 offset: 223227, length: 6730...
+Debug|Reading resource 57...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 9, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R CE, G FF, B 00
+Trace|Palette item 2: R CE, G FF, B 00
+Trace|Palette item 3: R CE, G FF, B 00
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Palette item 5: R FF, G FF, B FF
+Trace|Palette item 6: R 00, G A7, B FF
+Trace|Palette item 7: R CE, G FF, B 00
+Trace|Palette item 8: R FF, G FF, B FF
+Trace|Resource 58 offset: 229957, length: 6714...
+Debug|Reading resource 58...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 5, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Resource 59 offset: 236671, length: 6726...
+Debug|Reading resource 59...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 8, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R BB, G C8, B D5
+Trace|Palette item 2: R BB, G C8, B D5
+Trace|Palette item 3: R BB, G C8, B D5
+Trace|Palette item 4: R BB, G C8, B D5
+Trace|Palette item 5: R BB, G C8, B D5
+Trace|Palette item 6: R BB, G C8, B D5
+Trace|Palette item 7: R BB, G C8, B D5
+Trace|Resource 60 offset: 243397, length: 6714...
+Debug|Reading resource 60...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 5, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R 00, G A7, B FF
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Resource 61 offset: 250111, length: 3424...
+Debug|Reading resource 61...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 32
+Trace|BPP: 2, PaletteColors: 4, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R FF, G FF, B FF
+Trace|Resource 62 offset: 253535, length: 6734...
+Debug|Reading resource 62...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 10, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FB, B 00
+Trace|Palette item 2: R FF, G FB, B 00
+Trace|Palette item 3: R FF, G FB, B 00
+Trace|Palette item 4: R FF, G FB, B 00
+Trace|Palette item 5: R FF, G FF, B FF
+Trace|Palette item 6: R FF, G FF, B FF
+Trace|Palette item 7: R FF, G FB, B 00
+Trace|Palette item 8: R FF, G FE, B 9B
+Trace|Palette item 9: R FF, G FF, B FF
+Trace|Resource 63 offset: 260269, length: 6714...
+Debug|Reading resource 63...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 5, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R 00, G A7, B FF
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Resource 64 offset: 266983, length: 6726...
+Debug|Reading resource 64...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 8, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FB, B 00
+Trace|Palette item 2: R FF, G FB, B 00
+Trace|Palette item 3: R FF, G FB, B 00
+Trace|Palette item 4: R FF, G FB, B 00
+Trace|Palette item 5: R FF, G FB, B 00
+Trace|Palette item 6: R FF, G FB, B 00
+Trace|Palette item 7: R FF, G FB, B 00
+Trace|Resource 65 offset: 273709, length: 6742...
+Debug|Reading resource 65...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 12, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R BB, G C8, B D5
+Trace|Palette item 2: R BB, G C8, B D5
+Trace|Palette item 3: R BB, G C8, B D5
+Trace|Palette item 4: R AF, G BE, B CC
+Trace|Palette item 5: R B2, G C0, B CE
+Trace|Palette item 6: R B5, G C3, B D1
+Trace|Palette item 7: R B6, G C4, B D2
+Trace|Palette item 8: R B7, G C5, B D2
+Trace|Palette item 9: R B9, G C6, B D3
+Trace|Palette item 10: R BA, G C8, B D5
+Trace|Palette item 11: R BB, G C8, B D5
+Trace|Resource 66 offset: 280451, length: 6714...
+Debug|Reading resource 66...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 106, RowLength: 63
+Trace|BPP: 4, PaletteColors: 5, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
+Trace|Palette item 2: R FF, G FF, B FF
+Trace|Palette item 3: R 00, G A7, B FF
+Trace|Palette item 4: R FF, G FF, B FF
+Trace|Resource 67 offset: 287165, length: 37268...
+Debug|Reading resource 67...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 294, RowLength: 126
+Trace|BPP: 8, PaletteColors: 52, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R 00, G 00, B 00
+Trace|Palette item 2: R 34, G 42, B 34
+Trace|Palette item 3: R 3A, G 5C, B 3A
+Trace|Palette item 4: R 3A, G 5C, B 3A
+Trace|Palette item 5: R 38, G 52, B 38
+Trace|Palette item 6: R 3A, G 5C, B 3A
+Trace|Palette item 7: R 3A, G 5C, B 3A
+Trace|Palette item 8: R 38, G 53, B 38
+Trace|Palette item 9: R 11, G 1C, B 11
+Trace|Palette item 10: R 1C, G 2E, B 1C
+Trace|Palette item 11: R 1D, G 38, B 22
+Trace|Palette item 12: R 1F, G 31, B 1F
+Trace|Palette item 13: R 23, G 37, B 23
+Trace|Palette item 14: R 26, G 3E, B 26
+Trace|Palette item 15: R 28, G 62, B 40
+Trace|Palette item 16: R 29, G 28, B 20
+Trace|Palette item 17: R 29, G 4B, B 38
+Trace|Palette item 18: R 29, G 52, B 30
+Trace|Palette item 19: R 2B, G 44, B 2B
+Trace|Palette item 20: R 2E, G 16, B 08
+Trace|Palette item 21: R 2E, G 1C, B 0A
+Trace|Palette item 22: R 31, G 1E, B 0B
+Trace|Palette item 23: R 32, G 53, B 32
+Trace|Palette item 24: R 34, G 42, B 34
+Trace|Palette item 25: R 36, G 57, B 36
+Trace|Palette item 26: R 38, G 53, B 38
+Trace|Palette item 27: R 38, G 5A, B 38
+Trace|Palette item 28: R 39, G 5B, B 39
+Trace|Palette item 29: R 3A, G 5B, B 3A
+Trace|Palette item 30: R 3A, G 5C, B 3A
+Trace|Palette item 31: R 3B, G 27, B 13
+Trace|Palette item 32: R 3C, G 6E, B 42
+Trace|Palette item 33: R 41, G 28, B 18
+Trace|Palette item 34: R 44, G 33, B 21
+Trace|Palette item 35: R 45, G 14, B 15
+Trace|Palette item 36: R 48, G 7F, B 4F
+Trace|Palette item 37: R 4D, G 33, B 17
+Trace|Palette item 38: R 55, G 3A, B 1F
+Trace|Palette item 39: R 5A, G 34, B 20
+Trace|Palette item 40: R 5A, G 3C, B 29
+Trace|Palette item 41: R 5A, G 44, B 24
+Trace|Palette item 42: R 61, G 4B, B 2E
+Trace|Palette item 43: R 69, G 1F, B 21
+Trace|Palette item 44: R 70, G 52, B 2E
+Trace|Palette item 45: R 7A, G 5A, B 34
+Trace|Palette item 46: R 7B, G 50, B 39
+Trace|Palette item 47: R 82, G 61, B 3A
+Trace|Palette item 48: R 88, G 65, B 39
+Trace|Palette item 49: R 94, G 5D, B 41
+Trace|Palette item 50: R A5, G 07, B 00
+Trace|Palette item 51: R DF, G 46, B 7E
+Trace|Resource 68 offset: 324433, length: 2544...
+Debug|Reading resource 68...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 71, Height: 32, RowLength: 71
+Trace|BPP: 8, PaletteColors: 64, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R CC, G 69, B 1F
+Trace|Palette item 2: R F9, G F4, B F4
+Trace|Palette item 3: R AF, G 4D, B 19
+Trace|Palette item 4: R F0, G E6, B E1
+Trace|Palette item 5: R CC, G 69, B 20
+Trace|Palette item 6: R F9, G F4, B F4
+Trace|Palette item 7: R B0, G 51, B 22
+Trace|Palette item 8: R D4, G B3, B 9B
+Trace|Palette item 9: R CC, G 69, B 20
+Trace|Palette item 10: R CE, G A8, B 90
+Trace|Palette item 11: R AF, G 50, B 22
+Trace|Palette item 12: R AF, G 50, B 22
+Trace|Palette item 13: R B0, G 51, B 22
+Trace|Palette item 14: R B3, G 5F, B 3B
+Trace|Palette item 15: R C8, G 65, B 20
+Trace|Palette item 16: R CC, G 69, B 20
+Trace|Palette item 17: R C3, G 61, B 21
+Trace|Palette item 18: R F9, G F4, B F4
+Trace|Palette item 19: R CB, G 67, B 16
+Trace|Palette item 20: R 06, G 04, B 0E
+Trace|Palette item 21: R 1F, G 23, B 29
+Trace|Palette item 22: R 26, G 2C, B 35
+Trace|Palette item 23: R 4C, G 3D, B 26
+Trace|Palette item 24: R 56, G 3F, B 34
+Trace|Palette item 25: R 5F, G 4A, B 2B
+Trace|Palette item 26: R 74, G 5A, B 36
+Trace|Palette item 27: R 91, G 71, B 42
+Trace|Palette item 28: R 96, G 74, B 41
+Trace|Palette item 29: R 97, G 4D, B 2D
+Trace|Palette item 30: R 98, G 78, B 49
+Trace|Palette item 31: R 9F, G 84, B 4D
+Trace|Palette item 32: R B0, G 51, B 22
+Trace|Palette item 33: R B1, G 3F, B 00
+Trace|Palette item 34: R B4, G 8F, B 83
+Trace|Palette item 35: R B5, G 56, B 22
+Trace|Palette item 36: R B8, G 94, B 5F
+Trace|Palette item 37: R BE, G 5D, B 21
+Trace|Palette item 38: R C2, G 9D, B 62
+Trace|Palette item 39: R C4, G 64, B 21
+Trace|Palette item 40: R C7, G 64, B 20
+Trace|Palette item 41: R C7, G 65, B 20
+Trace|Palette item 42: R C9, G 66, B 20
+Trace|Palette item 43: R C9, G 67, B 20
+Trace|Palette item 44: R C9, G 6C, B 03
+Trace|Palette item 45: R CB, G 68, B 18
+Trace|Palette item 46: R CB, G 68, B 20
+Trace|Palette item 47: R CC, G 69, B 20
+Trace|Palette item 48: R CD, G 6A, B 20
+Trace|Palette item 49: R CE, G 6B, B 20
+Trace|Palette item 50: R D3, G 6E, B 20
+Trace|Palette item 51: R D8, G 73, B 21
+Trace|Palette item 52: R D9, G 75, B 21
+Trace|Palette item 53: R DC, G 77, B 21
+Trace|Palette item 54: R DF, G A2, B 1B
+Trace|Palette item 55: R E2, G 7C, B 21
+Trace|Palette item 56: R E9, G BD, B 39
+Trace|Palette item 57: R EF, G CD, B 56
+Trace|Palette item 58: R EF, G EF, B EF
+Trace|Palette item 59: R F6, G EE, B ED
+Trace|Palette item 60: R F7, G F0, B F0
+Trace|Palette item 61: R F7, G F1, B F1
+Trace|Palette item 62: R F9, G EB, B AB
+Trace|Palette item 63: R F9, G F4, B F4
+Trace|Resource 69 offset: 326977, length: 2544...
+Debug|Reading resource 69...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 71, Height: 32, RowLength: 71
+Trace|BPP: 8, PaletteColors: 64, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R CC, G 69, B 1F
+Trace|Palette item 2: R F9, G F4, B F4
+Trace|Palette item 3: R AF, G 4D, B 19
+Trace|Palette item 4: R F0, G E6, B E1
+Trace|Palette item 5: R CC, G 69, B 20
+Trace|Palette item 6: R F9, G F4, B F4
+Trace|Palette item 7: R B0, G 51, B 22
+Trace|Palette item 8: R D4, G B3, B 9B
+Trace|Palette item 9: R CC, G 69, B 20
+Trace|Palette item 10: R CE, G A8, B 90
+Trace|Palette item 11: R AF, G 50, B 22
+Trace|Palette item 12: R AF, G 50, B 22
+Trace|Palette item 13: R B0, G 51, B 22
+Trace|Palette item 14: R B3, G 5F, B 3B
+Trace|Palette item 15: R C8, G 65, B 20
+Trace|Palette item 16: R CC, G 69, B 20
+Trace|Palette item 17: R C3, G 61, B 21
+Trace|Palette item 18: R F9, G F4, B F4
+Trace|Palette item 19: R CB, G 67, B 16
+Trace|Palette item 20: R 06, G 04, B 0E
+Trace|Palette item 21: R 1F, G 23, B 29
+Trace|Palette item 22: R 26, G 2C, B 35
+Trace|Palette item 23: R 4C, G 3D, B 26
+Trace|Palette item 24: R 56, G 3F, B 34
+Trace|Palette item 25: R 5F, G 4A, B 2B
+Trace|Palette item 26: R 74, G 5A, B 36
+Trace|Palette item 27: R 91, G 71, B 42
+Trace|Palette item 28: R 96, G 74, B 41
+Trace|Palette item 29: R 97, G 4D, B 2D
+Trace|Palette item 30: R 98, G 78, B 49
+Trace|Palette item 31: R 9F, G 84, B 4D
+Trace|Palette item 32: R B0, G 51, B 22
+Trace|Palette item 33: R B1, G 3F, B 00
+Trace|Palette item 34: R B4, G 8F, B 83
+Trace|Palette item 35: R B5, G 56, B 22
+Trace|Palette item 36: R B8, G 94, B 5F
+Trace|Palette item 37: R BE, G 5D, B 21
+Trace|Palette item 38: R C2, G 9D, B 62
+Trace|Palette item 39: R C4, G 64, B 21
+Trace|Palette item 40: R C7, G 64, B 20
+Trace|Palette item 41: R C7, G 65, B 20
+Trace|Palette item 42: R C9, G 66, B 20
+Trace|Palette item 43: R C9, G 67, B 20
+Trace|Palette item 44: R C9, G 6C, B 03
+Trace|Palette item 45: R CB, G 68, B 18
+Trace|Palette item 46: R CB, G 68, B 20
+Trace|Palette item 47: R CC, G 69, B 20
+Trace|Palette item 48: R CD, G 6A, B 20
+Trace|Palette item 49: R CE, G 6B, B 20
+Trace|Palette item 50: R D3, G 6E, B 20
+Trace|Palette item 51: R D8, G 73, B 21
+Trace|Palette item 52: R D9, G 75, B 21
+Trace|Palette item 53: R DC, G 77, B 21
+Trace|Palette item 54: R DF, G A2, B 1B
+Trace|Palette item 55: R E2, G 7C, B 21
+Trace|Palette item 56: R E9, G BD, B 39
+Trace|Palette item 57: R EF, G CD, B 56
+Trace|Palette item 58: R EF, G EF, B EF
+Trace|Palette item 59: R F6, G EE, B ED
+Trace|Palette item 60: R F7, G F0, B F0
+Trace|Palette item 61: R F7, G F1, B F1
+Trace|Palette item 62: R F9, G EB, B AB
+Trace|Palette item 63: R F9, G F4, B F4
+Trace|Resource 70 offset: 329521, length: 2544...
+Debug|Reading resource 70...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 71, Height: 32, RowLength: 71
+Trace|BPP: 8, PaletteColors: 64, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R CC, G 69, B 1F
+Trace|Palette item 2: R F9, G F4, B F4
+Trace|Palette item 3: R AF, G 4D, B 19
+Trace|Palette item 4: R F0, G E6, B E1
+Trace|Palette item 5: R CC, G 69, B 20
+Trace|Palette item 6: R F9, G F4, B F4
+Trace|Palette item 7: R B0, G 51, B 22
+Trace|Palette item 8: R D4, G B3, B 9B
+Trace|Palette item 9: R CC, G 69, B 20
+Trace|Palette item 10: R CE, G A8, B 90
+Trace|Palette item 11: R AF, G 50, B 22
+Trace|Palette item 12: R AF, G 50, B 22
+Trace|Palette item 13: R B0, G 51, B 22
+Trace|Palette item 14: R B3, G 5F, B 3B
+Trace|Palette item 15: R C8, G 65, B 20
+Trace|Palette item 16: R CC, G 69, B 20
+Trace|Palette item 17: R C3, G 61, B 21
+Trace|Palette item 18: R F9, G F4, B F4
+Trace|Palette item 19: R CB, G 67, B 16
+Trace|Palette item 20: R 06, G 04, B 0E
+Trace|Palette item 21: R 1F, G 23, B 29
+Trace|Palette item 22: R 26, G 2C, B 35
+Trace|Palette item 23: R 4C, G 3D, B 26
+Trace|Palette item 24: R 56, G 3F, B 34
+Trace|Palette item 25: R 5F, G 4A, B 2B
+Trace|Palette item 26: R 74, G 5A, B 36
+Trace|Palette item 27: R 91, G 71, B 42
+Trace|Palette item 28: R 96, G 74, B 41
+Trace|Palette item 29: R 97, G 4D, B 2D
+Trace|Palette item 30: R 98, G 78, B 49
+Trace|Palette item 31: R 9F, G 84, B 4D
+Trace|Palette item 32: R B0, G 51, B 22
+Trace|Palette item 33: R B1, G 3F, B 00
+Trace|Palette item 34: R B4, G 8F, B 83
+Trace|Palette item 35: R B5, G 56, B 22
+Trace|Palette item 36: R B8, G 94, B 5F
+Trace|Palette item 37: R BE, G 5D, B 21
+Trace|Palette item 38: R C2, G 9D, B 62
+Trace|Palette item 39: R C4, G 64, B 21
+Trace|Palette item 40: R C7, G 64, B 20
+Trace|Palette item 41: R C7, G 65, B 20
+Trace|Palette item 42: R C9, G 66, B 20
+Trace|Palette item 43: R C9, G 67, B 20
+Trace|Palette item 44: R C9, G 6C, B 03
+Trace|Palette item 45: R CB, G 68, B 18
+Trace|Palette item 46: R CB, G 68, B 20
+Trace|Palette item 47: R CC, G 69, B 20
+Trace|Palette item 48: R CD, G 6A, B 20
+Trace|Palette item 49: R CE, G 6B, B 20
+Trace|Palette item 50: R D3, G 6E, B 20
+Trace|Palette item 51: R D8, G 73, B 21
+Trace|Palette item 52: R D9, G 75, B 21
+Trace|Palette item 53: R DC, G 77, B 21
+Trace|Palette item 54: R DF, G A2, B 1B
+Trace|Palette item 55: R E2, G 7C, B 21
+Trace|Palette item 56: R E9, G BD, B 39
+Trace|Palette item 57: R EF, G CD, B 56
+Trace|Palette item 58: R EF, G EF, B EF
+Trace|Palette item 59: R F6, G EE, B ED
+Trace|Palette item 60: R F7, G F0, B F0
+Trace|Palette item 61: R F7, G F1, B F1
+Trace|Palette item 62: R F9, G EB, B AB
+Trace|Palette item 63: R F9, G F4, B F4
+Trace|Resource 71 offset: 332065, length: 2544...
+Debug|Reading resource 71...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 71, Height: 32, RowLength: 71
+Trace|BPP: 8, PaletteColors: 64, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R CC, G 69, B 1F
+Trace|Palette item 2: R F9, G F4, B F4
+Trace|Palette item 3: R AF, G 4D, B 19
+Trace|Palette item 4: R F0, G E6, B E1
+Trace|Palette item 5: R CC, G 69, B 20
+Trace|Palette item 6: R F9, G F4, B F4
+Trace|Palette item 7: R B0, G 51, B 22
+Trace|Palette item 8: R D4, G B3, B 9B
+Trace|Palette item 9: R CC, G 69, B 20
+Trace|Palette item 10: R CE, G A8, B 90
+Trace|Palette item 11: R AF, G 50, B 22
+Trace|Palette item 12: R AF, G 50, B 22
+Trace|Palette item 13: R B0, G 51, B 22
+Trace|Palette item 14: R B3, G 5F, B 3B
+Trace|Palette item 15: R C8, G 65, B 20
+Trace|Palette item 16: R CC, G 69, B 20
+Trace|Palette item 17: R C3, G 61, B 21
+Trace|Palette item 18: R F9, G F4, B F4
+Trace|Palette item 19: R CB, G 67, B 16
+Trace|Palette item 20: R 06, G 04, B 0E
+Trace|Palette item 21: R 1F, G 23, B 29
+Trace|Palette item 22: R 26, G 2C, B 35
+Trace|Palette item 23: R 4C, G 3D, B 26
+Trace|Palette item 24: R 56, G 3F, B 34
+Trace|Palette item 25: R 5F, G 4A, B 2B
+Trace|Palette item 26: R 74, G 5A, B 36
+Trace|Palette item 27: R 91, G 71, B 42
+Trace|Palette item 28: R 96, G 74, B 41
+Trace|Palette item 29: R 97, G 4D, B 2D
+Trace|Palette item 30: R 98, G 78, B 49
+Trace|Palette item 31: R 9F, G 84, B 4D
+Trace|Palette item 32: R B0, G 51, B 22
+Trace|Palette item 33: R B1, G 3F, B 00
+Trace|Palette item 34: R B4, G 8F, B 83
+Trace|Palette item 35: R B5, G 56, B 22
+Trace|Palette item 36: R B8, G 94, B 5F
+Trace|Palette item 37: R BE, G 5D, B 21
+Trace|Palette item 38: R C2, G 9D, B 62
+Trace|Palette item 39: R C4, G 64, B 21
+Trace|Palette item 40: R C7, G 64, B 20
+Trace|Palette item 41: R C7, G 65, B 20
+Trace|Palette item 42: R C9, G 66, B 20
+Trace|Palette item 43: R C9, G 67, B 20
+Trace|Palette item 44: R C9, G 6C, B 03
+Trace|Palette item 45: R CB, G 68, B 18
+Trace|Palette item 46: R CB, G 68, B 20
+Trace|Palette item 47: R CC, G 69, B 20
+Trace|Palette item 48: R CD, G 6A, B 20
+Trace|Palette item 49: R CE, G 6B, B 20
+Trace|Palette item 50: R D3, G 6E, B 20
+Trace|Palette item 51: R D8, G 73, B 21
+Trace|Palette item 52: R D9, G 75, B 21
+Trace|Palette item 53: R DC, G 77, B 21
+Trace|Palette item 54: R DF, G A2, B 1B
+Trace|Palette item 55: R E2, G 7C, B 21
+Trace|Palette item 56: R E9, G BD, B 39
+Trace|Palette item 57: R EF, G CD, B 56
+Trace|Palette item 58: R EF, G EF, B EF
+Trace|Palette item 59: R F6, G EE, B ED
+Trace|Palette item 60: R F7, G F0, B F0
+Trace|Palette item 61: R F7, G F1, B F1
+Trace|Palette item 62: R F9, G EB, B AB
+Trace|Palette item 63: R F9, G F4, B F4
+Trace|Resource 72 offset: 334609, length: 2552...
+Debug|Reading resource 72...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 71, Height: 32, RowLength: 71
+Trace|BPP: 8, PaletteColors: 66, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R CC, G 69, B 1F
+Trace|Palette item 2: R F9, G F4, B F4
+Trace|Palette item 3: R AF, G 4D, B 19
+Trace|Palette item 4: R F0, G E6, B E1
+Trace|Palette item 5: R CC, G 69, B 20
+Trace|Palette item 6: R F0, G E6, B E1
+Trace|Palette item 7: R F9, G F4, B F4
+Trace|Palette item 8: R B0, G 51, B 22
+Trace|Palette item 9: R D4, G B3, B 9B
+Trace|Palette item 10: R CC, G 69, B 20
+Trace|Palette item 11: R D4, G B3, B 9B
+Trace|Palette item 12: R CE, G A8, B 90
+Trace|Palette item 13: R AF, G 50, B 22
+Trace|Palette item 14: R AF, G 50, B 22
+Trace|Palette item 15: R B0, G 51, B 22
+Trace|Palette item 16: R B3, G 5F, B 3B
+Trace|Palette item 17: R C8, G 65, B 20
+Trace|Palette item 18: R CC, G 69, B 20
+Trace|Palette item 19: R C3, G 61, B 21
+Trace|Palette item 20: R F9, G F4, B F4
+Trace|Palette item 21: R CB, G 67, B 16
+Trace|Palette item 22: R 06, G 04, B 0E
+Trace|Palette item 23: R 1F, G 23, B 29
+Trace|Palette item 24: R 26, G 2C, B 35
+Trace|Palette item 25: R 4C, G 3D, B 26
+Trace|Palette item 26: R 56, G 3F, B 34
+Trace|Palette item 27: R 5F, G 4A, B 2B
+Trace|Palette item 28: R 74, G 5A, B 36
+Trace|Palette item 29: R 91, G 71, B 42
+Trace|Palette item 30: R 96, G 74, B 41
+Trace|Palette item 31: R 97, G 4D, B 2D
+Trace|Palette item 32: R 98, G 78, B 49
+Trace|Palette item 33: R 9F, G 84, B 4D
+Trace|Palette item 34: R B0, G 51, B 22
+Trace|Palette item 35: R B1, G 3F, B 00
+Trace|Palette item 36: R B4, G 8F, B 83
+Trace|Palette item 37: R B5, G 56, B 22
+Trace|Palette item 38: R B8, G 94, B 5F
+Trace|Palette item 39: R BE, G 5D, B 21
+Trace|Palette item 40: R C2, G 9D, B 62
+Trace|Palette item 41: R C4, G 64, B 21
+Trace|Palette item 42: R C7, G 64, B 20
+Trace|Palette item 43: R C7, G 65, B 20
+Trace|Palette item 44: R C9, G 66, B 20
+Trace|Palette item 45: R C9, G 67, B 20
+Trace|Palette item 46: R C9, G 6C, B 03
+Trace|Palette item 47: R CB, G 68, B 18
+Trace|Palette item 48: R CB, G 68, B 20
+Trace|Palette item 49: R CC, G 69, B 20
+Trace|Palette item 50: R CD, G 6A, B 20
+Trace|Palette item 51: R CE, G 6B, B 20
+Trace|Palette item 52: R D3, G 6E, B 20
+Trace|Palette item 53: R D8, G 73, B 21
+Trace|Palette item 54: R D9, G 75, B 21
+Trace|Palette item 55: R DC, G 77, B 21
+Trace|Palette item 56: R DF, G A2, B 1B
+Trace|Palette item 57: R E2, G 7C, B 21
+Trace|Palette item 58: R E9, G BD, B 39
+Trace|Palette item 59: R EF, G CD, B 56
+Trace|Palette item 60: R EF, G EF, B EF
+Trace|Palette item 61: R F6, G EE, B ED
+Trace|Palette item 62: R F7, G F0, B F0
+Trace|Palette item 63: R F7, G F1, B F1
+Trace|Palette item 64: R F9, G EB, B AB
+Trace|Palette item 65: R F9, G F4, B F4
+Trace|Resource 73 offset: 337161, length: 2544...
+Debug|Reading resource 73...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 71, Height: 32, RowLength: 71
+Trace|BPP: 8, PaletteColors: 64, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R CC, G 69, B 1F
+Trace|Palette item 2: R F9, G F4, B F4
+Trace|Palette item 3: R AF, G 4D, B 19
+Trace|Palette item 4: R F0, G E6, B E1
+Trace|Palette item 5: R CC, G 69, B 20
+Trace|Palette item 6: R F9, G F4, B F4
+Trace|Palette item 7: R B0, G 51, B 22
+Trace|Palette item 8: R D4, G B3, B 9B
+Trace|Palette item 9: R CC, G 69, B 20
+Trace|Palette item 10: R CE, G A8, B 90
+Trace|Palette item 11: R AF, G 50, B 22
+Trace|Palette item 12: R AF, G 50, B 22
+Trace|Palette item 13: R B0, G 51, B 22
+Trace|Palette item 14: R B3, G 5F, B 3B
+Trace|Palette item 15: R C8, G 65, B 20
+Trace|Palette item 16: R CC, G 69, B 20
+Trace|Palette item 17: R C3, G 61, B 21
+Trace|Palette item 18: R F9, G F4, B F4
+Trace|Palette item 19: R CB, G 67, B 16
+Trace|Palette item 20: R 06, G 04, B 0E
+Trace|Palette item 21: R 1F, G 23, B 29
+Trace|Palette item 22: R 26, G 2C, B 35
+Trace|Palette item 23: R 4C, G 3D, B 26
+Trace|Palette item 24: R 56, G 3F, B 34
+Trace|Palette item 25: R 5F, G 4A, B 2B
+Trace|Palette item 26: R 74, G 5A, B 36
+Trace|Palette item 27: R 91, G 71, B 42
+Trace|Palette item 28: R 96, G 74, B 41
+Trace|Palette item 29: R 97, G 4D, B 2D
+Trace|Palette item 30: R 98, G 78, B 49
+Trace|Palette item 31: R 9F, G 84, B 4D
+Trace|Palette item 32: R B0, G 51, B 22
+Trace|Palette item 33: R B1, G 3F, B 00
+Trace|Palette item 34: R B4, G 8F, B 83
+Trace|Palette item 35: R B5, G 56, B 22
+Trace|Palette item 36: R B8, G 94, B 5F
+Trace|Palette item 37: R BE, G 5D, B 21
+Trace|Palette item 38: R C2, G 9D, B 62
+Trace|Palette item 39: R C4, G 64, B 21
+Trace|Palette item 40: R C7, G 64, B 20
+Trace|Palette item 41: R C7, G 65, B 20
+Trace|Palette item 42: R C9, G 66, B 20
+Trace|Palette item 43: R C9, G 67, B 20
+Trace|Palette item 44: R C9, G 6C, B 03
+Trace|Palette item 45: R CB, G 68, B 18
+Trace|Palette item 46: R CB, G 68, B 20
+Trace|Palette item 47: R CC, G 69, B 20
+Trace|Palette item 48: R CD, G 6A, B 20
+Trace|Palette item 49: R CE, G 6B, B 20
+Trace|Palette item 50: R D3, G 6E, B 20
+Trace|Palette item 51: R D8, G 73, B 21
+Trace|Palette item 52: R D9, G 75, B 21
+Trace|Palette item 53: R DC, G 77, B 21
+Trace|Palette item 54: R DF, G A2, B 1B
+Trace|Palette item 55: R E2, G 7C, B 21
+Trace|Palette item 56: R E9, G BD, B 39
+Trace|Palette item 57: R EF, G CD, B 56
+Trace|Palette item 58: R EF, G EF, B EF
+Trace|Palette item 59: R F6, G EE, B ED
+Trace|Palette item 60: R F7, G F0, B F0
+Trace|Palette item 61: R F7, G F1, B F1
+Trace|Palette item 62: R F9, G EB, B AB
+Trace|Palette item 63: R F9, G F4, B F4
+Trace|Resource 74 offset: 339705, length: 2544...
+Debug|Reading resource 74...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 71, Height: 32, RowLength: 71
+Trace|BPP: 8, PaletteColors: 64, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R CC, G 69, B 1F
+Trace|Palette item 2: R F9, G F4, B F4
+Trace|Palette item 3: R AF, G 4D, B 19
+Trace|Palette item 4: R F0, G E6, B E1
+Trace|Palette item 5: R CC, G 69, B 20
+Trace|Palette item 6: R F9, G F4, B F4
+Trace|Palette item 7: R B0, G 51, B 22
+Trace|Palette item 8: R D4, G B3, B 9B
+Trace|Palette item 9: R CC, G 69, B 20
+Trace|Palette item 10: R CE, G A8, B 90
+Trace|Palette item 11: R AF, G 50, B 22
+Trace|Palette item 12: R AF, G 50, B 22
+Trace|Palette item 13: R B0, G 51, B 22
+Trace|Palette item 14: R B3, G 5F, B 3B
+Trace|Palette item 15: R C8, G 65, B 20
+Trace|Palette item 16: R CC, G 69, B 20
+Trace|Palette item 17: R C3, G 61, B 21
+Trace|Palette item 18: R F9, G F4, B F4
+Trace|Palette item 19: R CB, G 67, B 16
+Trace|Palette item 20: R 06, G 04, B 0E
+Trace|Palette item 21: R 1F, G 23, B 29
+Trace|Palette item 22: R 26, G 2C, B 35
+Trace|Palette item 23: R 4C, G 3D, B 26
+Trace|Palette item 24: R 56, G 3F, B 34
+Trace|Palette item 25: R 5F, G 4A, B 2B
+Trace|Palette item 26: R 74, G 5A, B 36
+Trace|Palette item 27: R 91, G 71, B 42
+Trace|Palette item 28: R 96, G 74, B 41
+Trace|Palette item 29: R 97, G 4D, B 2D
+Trace|Palette item 30: R 98, G 78, B 49
+Trace|Palette item 31: R 9F, G 84, B 4D
+Trace|Palette item 32: R B0, G 51, B 22
+Trace|Palette item 33: R B1, G 3F, B 00
+Trace|Palette item 34: R B4, G 8F, B 83
+Trace|Palette item 35: R B5, G 56, B 22
+Trace|Palette item 36: R B8, G 94, B 5F
+Trace|Palette item 37: R BE, G 5D, B 21
+Trace|Palette item 38: R C2, G 9D, B 62
+Trace|Palette item 39: R C4, G 64, B 21
+Trace|Palette item 40: R C7, G 64, B 20
+Trace|Palette item 41: R C7, G 65, B 20
+Trace|Palette item 42: R C9, G 66, B 20
+Trace|Palette item 43: R C9, G 67, B 20
+Trace|Palette item 44: R C9, G 6C, B 03
+Trace|Palette item 45: R CB, G 68, B 18
+Trace|Palette item 46: R CB, G 68, B 20
+Trace|Palette item 47: R CC, G 69, B 20
+Trace|Palette item 48: R CD, G 6A, B 20
+Trace|Palette item 49: R CE, G 6B, B 20
+Trace|Palette item 50: R D3, G 6E, B 20
+Trace|Palette item 51: R D8, G 73, B 21
+Trace|Palette item 52: R D9, G 75, B 21
+Trace|Palette item 53: R DC, G 77, B 21
+Trace|Palette item 54: R DF, G A2, B 1B
+Trace|Palette item 55: R E2, G 7C, B 21
+Trace|Palette item 56: R E9, G BD, B 39
+Trace|Palette item 57: R EF, G CD, B 56
+Trace|Palette item 58: R EF, G EF, B EF
+Trace|Palette item 59: R F6, G EE, B ED
+Trace|Palette item 60: R F7, G F0, B F0
+Trace|Palette item 61: R F7, G F1, B F1
+Trace|Palette item 62: R F9, G EB, B AB
+Trace|Palette item 63: R F9, G F4, B F4
+Trace|Resource 75 offset: 342249, length: 2544...
+Debug|Reading resource 75...
+Trace|Color bit encoding: 100
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 71, Height: 32, RowLength: 71
+Trace|BPP: 8, PaletteColors: 64, Transaparency: True
+Trace|Reading palette...
+Trace|Palette item 0: R 00, G 00, B 00
+Trace|Palette item 1: R CC, G 69, B 1F
+Trace|Palette item 2: R F9, G F4, B F4
+Trace|Palette item 3: R AF, G 4D, B 19
+Trace|Palette item 4: R F0, G E6, B E1
+Trace|Palette item 5: R CC, G 69, B 20
+Trace|Palette item 6: R F9, G F4, B F4
+Trace|Palette item 7: R B0, G 51, B 22
+Trace|Palette item 8: R D4, G B3, B 9B
+Trace|Palette item 9: R CC, G 69, B 20
+Trace|Palette item 10: R CE, G A8, B 90
+Trace|Palette item 11: R AF, G 50, B 22
+Trace|Palette item 12: R AF, G 50, B 22
+Trace|Palette item 13: R B0, G 51, B 22
+Trace|Palette item 14: R B3, G 5F, B 3B
+Trace|Palette item 15: R C8, G 65, B 20
+Trace|Palette item 16: R CC, G 69, B 20
+Trace|Palette item 17: R C3, G 61, B 21
+Trace|Palette item 18: R F9, G F4, B F4
+Trace|Palette item 19: R CB, G 67, B 16
+Trace|Palette item 20: R 06, G 04, B 0E
+Trace|Palette item 21: R 1F, G 23, B 29
+Trace|Palette item 22: R 26, G 2C, B 35
+Trace|Palette item 23: R 4C, G 3D, B 26
+Trace|Palette item 24: R 56, G 3F, B 34
+Trace|Palette item 25: R 5F, G 4A, B 2B
+Trace|Palette item 26: R 74, G 5A, B 36
+Trace|Palette item 27: R 91, G 71, B 42
+Trace|Palette item 28: R 96, G 74, B 41
+Trace|Palette item 29: R 97, G 4D, B 2D
+Trace|Palette item 30: R 98, G 78, B 49
+Trace|Palette item 31: R 9F, G 84, B 4D
+Trace|Palette item 32: R B0, G 51, B 22
+Trace|Palette item 33: R B1, G 3F, B 00
+Trace|Palette item 34: R B4, G 8F, B 83
+Trace|Palette item 35: R B5, G 56, B 22
+Trace|Palette item 36: R B8, G 94, B 5F
+Trace|Palette item 37: R BE, G 5D, B 21
+Trace|Palette item 38: R C2, G 9D, B 62
+Trace|Palette item 39: R C4, G 64, B 21
+Trace|Palette item 40: R C7, G 64, B 20
+Trace|Palette item 41: R C7, G 65, B 20
+Trace|Palette item 42: R C9, G 66, B 20
+Trace|Palette item 43: R C9, G 67, B 20
+Trace|Palette item 44: R C9, G 6C, B 03
+Trace|Palette item 45: R CB, G 68, B 18
+Trace|Palette item 46: R CB, G 68, B 20
+Trace|Palette item 47: R CC, G 69, B 20
+Trace|Palette item 48: R CD, G 6A, B 20
+Trace|Palette item 49: R CE, G 6B, B 20
+Trace|Palette item 50: R D3, G 6E, B 20
+Trace|Palette item 51: R D8, G 73, B 21
+Trace|Palette item 52: R D9, G 75, B 21
+Trace|Palette item 53: R DC, G 77, B 21
+Trace|Palette item 54: R DF, G A2, B 1B
+Trace|Palette item 55: R E2, G 7C, B 21
+Trace|Palette item 56: R E9, G BD, B 39
+Trace|Palette item 57: R EF, G CD, B 56
+Trace|Palette item 58: R EF, G EF, B EF
+Trace|Palette item 59: R F6, G EE, B ED
+Trace|Palette item 60: R F7, G F0, B F0
+Trace|Palette item 61: R F7, G F1, B F1
+Trace|Palette item 62: R F9, G EB, B AB
+Trace|Palette item 63: R F9, G F4, B F4
+Debug|Parsing parameters...
+Trace|2 'Background'
+Trace|2.2 'BackgroundColor': 65280
+Trace|3 'Time'
+Trace|3.1 'Hours'
+Trace|3.1.1 'Tens'
+Trace|3.1.1.1 'X': 0
+Trace|3.1.1.2 'Y': 0
+Trace|3.1.1.3 'ImageIndex': 0
+Trace|3.1.1.4 'ImagesCount': 10
+Trace|3.1.2 'Ones'
+Trace|3.1.2.1 'X': 35
+Trace|3.1.2.2 'Y': 28
+Trace|3.1.2.3 'ImageIndex': 3
+Trace|3.1.2.4 'ImagesCount': 10
+Trace|3.2 'Minutes'
+Trace|3.2.1 'Tens'
+Trace|3.2.1.1 'X': 66
+Trace|3.2.1.2 'Y': 28
+Trace|3.2.1.3 'ImageIndex': 3
+Trace|3.2.1.4 'ImagesCount': 10
+Trace|3.2.2 'Ones'
+Trace|3.2.2.1 'X': 96
+Trace|3.2.2.2 'Y': 29
+Trace|3.2.2.3 'ImageIndex': 3
+Trace|3.2.2.4 'ImagesCount': 10
+Trace|3.11 'UnknownV11': 0
+Trace|4 'Activity'
+Trace|4.1 'Steps'
+Trace|4.1.1 'Number'
+Trace|4.1.1.1 'TopLeftX': 13
+Trace|4.1.1.2 'TopLeftY': 73
+Trace|4.1.1.3 'BottomRightX': 14
+Trace|4.1.1.4 'BottomRightY': 74
+Trace|4.1.1.5 'Alignment': 18
+Trace|4.1.1.6 'SpacingX': -5
+Trace|4.1.1.7 'SpacingY': 0
+Trace|4.1.1.8 'ImageIndex': 23
+Trace|4.1.1.9 'ImagesCount': 10
+Trace|4.4 'Pulse'
+Trace|4.4.1 'Number'
+Trace|4.4.1.1 'TopLeftX': 18
+Trace|4.4.1.2 'TopLeftY': 93
+Trace|4.4.1.3 'BottomRightX': 19
+Trace|4.4.1.4 'BottomRightY': 94
+Trace|4.4.1.5 'Alignment': 18
+Trace|4.4.1.6 'SpacingX': -5
+Trace|4.4.1.7 'SpacingY': 0
+Trace|4.4.1.8 'ImageIndex': 23
+Trace|4.4.1.9 'ImagesCount': 10
+Trace|4.6 'PAI'
+Trace|4.6.1 'Number'
+Trace|4.6.1.1 'TopLeftX': 79
+Trace|4.6.1.2 'TopLeftY': 92
+Trace|4.6.1.3 'BottomRightX': 80
+Trace|4.6.1.4 'BottomRightY': 93
+Trace|4.6.1.5 'Alignment': 18
+Trace|4.6.1.6 'SpacingX': -5
+Trace|4.6.1.7 'SpacingY': 0
+Trace|4.6.1.8 'ImageIndex': 23
+Trace|4.6.1.9 'ImagesCount': 10
+Trace|4.7 'UnknownV7': 0
+Trace|5 'Date'
+Trace|5.1 'MonthAndDayAndYear'
+Trace|5.1.1 'Separate'
+Trace|5.1.1.1 'Month'
+Trace|5.1.1.1.1 'TopLeftX': 104
+Trace|5.1.1.1.2 'TopLeftY': 74
+Trace|5.1.1.1.3 'BottomRightX': 105
+Trace|5.1.1.1.4 'BottomRightY': 75
+Trace|5.1.1.1.5 'Alignment': 18
+Trace|5.1.1.1.6 'SpacingX': -4
+Trace|5.1.1.1.7 'SpacingY': 0
+Trace|5.1.1.1.8 'ImageIndex': 23
+Trace|5.1.1.1.9 'ImagesCount': 10
+Trace|5.1.1.4 'Day'
+Trace|5.1.1.4.1 'TopLeftX': 78
+Trace|5.1.1.4.2 'TopLeftY': 74
+Trace|5.1.1.4.3 'BottomRightX': 79
+Trace|5.1.1.4.4 'BottomRightY': 75
+Trace|5.1.1.4.5 'Alignment': 18
+Trace|5.1.1.4.6 'SpacingX': -4
+Trace|5.1.1.4.7 'SpacingY': 0
+Trace|5.1.1.4.8 'ImageIndex': 23
+Trace|5.1.1.4.9 'ImagesCount': 10
+Trace|5.1.4 'TwoDigitsMonth': 1
+Trace|5.1.5 'TwoDigitsDay': 1
+Trace|6 'Weather'
+Trace|6.1 'Icon'
+Trace|6.1.2 'CustomIcon'
+Trace|6.1.2.1 'X': -1
+Trace|6.1.2.2 'Y': 109
+Trace|6.1.2.3 'ImageIndex': 41
+Trace|6.1.2.4 'ImagesCount': 26
+Trace|6.1.3 'Unknown3'
+Trace|6.1.3.1 'X': -1
+Trace|6.1.3.2 'Y': 109
+Trace|6.1.4 'Unknown4'
+Trace|6.1.4.1 'X': -1
+Trace|6.1.4.2 'Y': 109
+Trace|9 'Battery'
+Trace|9.1 'BatteryText'
+Trace|9.1.1 'Coordinates'
+Trace|9.1.1.1 'TopLeftX': 54
+Trace|9.1.1.2 'TopLeftY': 1
+Trace|9.1.1.3 'BottomRightX': 55
+Trace|9.1.1.4 'BottomRightY': 2
+Trace|9.1.1.5 'Alignment': 18
+Trace|9.1.1.6 'SpacingX': -3
+Trace|9.1.1.7 'SpacingY': 0
+Trace|9.1.1.8 'ImageIndex': 23
+Trace|9.1.1.9 'ImagesCount': 10
+Trace|9.1.4 'SuffixImageIndex': 40
+Trace|9.2 'BatteryIcon'
+Trace|9.2.1 'X': 94
+Trace|9.2.2 'Y': 1
+Trace|9.2.3 'ImageIndex': 13
+Trace|9.2.4 'ImagesCount': 10
+Trace|11 'Other'
+Trace|11.1 'Animation'
+Trace|11.1.1 'AnimationImages'
+Trace|11.1.1.1 'X': 0
+Trace|11.1.1.2 'Y': 0
+Trace|11.1.1.3 'ImageIndex': 67
+Trace|11.1.1.4 'ImagesCount': 1
+Trace|11.1.2 'Speed': 0
+Trace|11.1.3 'RepeatCount': 0
+Trace|11.1.4 'UnknownTF4': 1
+Trace|11.1 'Animation'
+Trace|11.1.1 'AnimationImages'
+Trace|11.1.1.1 'X': 28
+Trace|11.1.1.2 'Y': 214
+Trace|11.1.1.3 'ImageIndex': 68
+Trace|11.1.1.4 'ImagesCount': 8
+Trace|11.1.2 'Speed': 100
+Trace|11.1.3 'RepeatCount': 255
+Trace|11.1.4 'UnknownTF4': 1
+Trace|14 'WeekDaysIcons'
+Trace|14.1 'Monday'
+Trace|14.1.1 'X': 0
+Trace|14.1.2 'Y': 260
+Trace|14.1.3 'ImageIndex': 33
+Trace|14.2 'Tuesday'
+Trace|14.2.1 'X': 0
+Trace|14.2.2 'Y': 260
+Trace|14.2.3 'ImageIndex': 34
+Trace|14.3 'Wednesday'
+Trace|14.3.1 'X': 0
+Trace|14.3.2 'Y': 260
+Trace|14.3.3 'ImageIndex': 35
+Trace|14.4 'Thursday'
+Trace|14.4.1 'X': 0
+Trace|14.4.2 'Y': 260
+Trace|14.4.3 'ImageIndex': 36
+Trace|14.5 'Friday'
+Trace|14.5.1 'X': 0
+Trace|14.5.2 'Y': 260
+Trace|14.5.3 'ImageIndex': 37
+Trace|14.6 'Saturday'
+Trace|14.6.1 'X': 0
+Trace|14.6.2 'Y': 260
+Trace|14.6.3 'ImageIndex': 38
+Trace|14.7 'Sunday'
+Trace|14.7.1 'X': 0
+Trace|14.7.2 'Y': 260
+Trace|14.7.3 'ImageIndex': 39
+Debug|Generating previews...
+Debug|Exporting resources to 'C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed'
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0000.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0001.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0002.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0003.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0004.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0005.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0006.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0007.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0008.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0009.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0010.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0011.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0012.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0013.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0014.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0015.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0016.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0017.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0018.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0019.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0020.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0021.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0022.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0023.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0024.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0025.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0026.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0027.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0028.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0029.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0030.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0031.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0032.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0033.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0034.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0035.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0036.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0037.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0038.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0039.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0040.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0041.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0042.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0043.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0044.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0045.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0046.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0047.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0048.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0049.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0050.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0051.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0052.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0053.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0054.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0055.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0056.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0057.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0058.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0059.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0060.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0061.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0062.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0063.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0064.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0065.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0066.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0067.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0068.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0069.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0070.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0071.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0072.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0073.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0074.png...
+Debug|Extracting C:\Users\lukas\Documents\luktvpl site\tarcza-lisek\build\2.0\mi band 5_packed\0075.png...
+Debug|Exporting config...
